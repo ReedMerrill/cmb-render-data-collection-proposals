@@ -1,0 +1,42 @@
+var,question,heading
+StartDate,Start Date,Start Date
+EndDate,End Date,Submission Date:
+Status,Response Type,Response Type
+IPAddress,IP Address,IP Address
+Progress,Progress,Progress
+Duration (in seconds),Duration (in seconds),Duration (in seconds)
+Finished,Finished,Finished
+RecordedDate,Recorded Date,Recorded Date
+ResponseId,Response ID,Response ID
+RecipientLastName,Recipient Last Name,Recipient Last Name
+RecipientFirstName,Recipient First Name,Recipient First Name
+RecipientEmail,Recipient Email,Recipient Email
+ExternalReference,External Data Reference,External Data Reference
+LocationLatitude,Location Latitude,Location Latitude
+LocationLongitude,Location Longitude,Location Longitude
+DistributionChannel,Distribution Channel,Distribution Channel
+UserLanguage,User Language,User Language
+pillar,"Which research pillar has endorsed this proposal, if any? ""Endorsement"" means that a research pillar lead has expressed a willingness to support the proposal using pillar resources. This is not necessary for the success of a proposal, but it is useful for us to know for planning purposes.",Pillars
+questions,"Which of the partnership's core research questions, if any, does this proposal address? Please select all that apply. Proposals do not have to address one of the core research questions to be funded, but we are especially keen to support research and data collection related to our core questions.",Core Research Question(s) Addressed
+dc,What kind of data collection does your proposal involve? Please select all that apply.,Data Collection
+lead,"Please list the name, position, email address, and affiliation of the ""lead"" for this proposal. This doesn't have to be the ""first author"" for the project, it's just the person (probably the person filling out this form!) who will be our main contact.",Proposal Lead
+participants,"Please list the name, position, and affiliation of everyone who would be involved in this proposal.",Participating Researchers
+description,Please describe your proposal in 1-3 paragraphs.,Project Description
+contribution,Please describe the contribution or novelty of this proposal (one paragraph).,Contribution
+audience,Please describe the principal audience(s) for this proposal.,Audience
+outputs,"Please describe the output(s) that this proposal will generate. If the outputs are academic, please describe where you would plan to submit the work.",Outputs
+outputs_kmb,"If the primary outputs from this proposal are academic, please describe at least one non-academic knowledge mobilization output (e.g. website post, op-ed, short report, etc.). If the principal outputs are non-academic in nature, you can skip this question.",Knowledge Mobilization Outputs
+timeline,Please provide a timeline for your proposal from data collection through to submission (for academic outputs) and/or release/publication (for non-academic outputs).,Timeline
+questions_pol,Please provide a draft of the questions that would need to be included in the politician survey to make this project successful.,Questions (Mun. Politicians Survey)
+sample_pol,"Please describe the sample size you require for this project and any details about the sample that we need to know (e.g. a specific province, a specific municipality type, etc.)",Sample (Mun. Politicians Survey)
+pew_pol,"Please provide an estimate of the ""Pew Points"" required for this survey. Do not include ""core"" questions in your calculation (that is, questions that will be included in every survey such as ideological self-placement and basic demographics).",Pew Points (Mun. Politicians Survey)
+questions_genpop,Please provide a draft of the questions that would need to be included in the public survey to make this project successful.,Questions (Gen. Public Survey)
+sample_genpop,"Please describe the sample size you require for this project and any details about the sample that we need to know (e.g. a specific province, a specific municipality type, etc.)",Sample (Gen. Public Survey)
+pew_genpop,"Please provide an estimate of the ""Pew Points"" required for this survey. Do not include ""core"" questions in your calculation (that is, questions that will be included in every survey such as ideological self-placement and basic demographics).",Pew Points (Gen. Public Survey)
+qual,Please describe the qualitative data collection that you plan to undertake.,Qualitative Data Collection
+qual_budget,"Please provide an estimated budget for qualitative data collection. For assistance with your budget estimate, please consult this document: LINK HERE.",Qualitative Budget
+qual_travel,"If your qualitative data collection involves travel, please describe which team members would participate in the travel. Note that we encourage opportunities for students and junior members to participate in research travel whenever possible.",Travel for Qualitative Research
+other_data,"Please describe the ""other"" data collection that you have in mind.",Other Data
+other_budget,"Please provide a budget estimate for the cost of this data collection. If your proposal involves CMB RAs, you can instead provide an estimate of the number of RA hours that would be required.",Budget Estimate (other data)
+ethics,The participants in this proposal will secure ethics approval from the appropriate institutions and will send ethics approval documentation to the partnership coordinator before beginning data collection.,Ethics
+edi,"The proposal lead has considered equity, diversity, and inclusion in relation to this proposal and, where appropriate, has offered opportunities for collaboration to ensure that project outputs reflect the partnership's EDI commitments.","Equity, Diversity, and Inclusion"
