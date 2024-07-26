@@ -39,6 +39,8 @@ for (i in seq_along(data_list)) {
   data <- bind_rows(data, table)
 }
 
+data
+
 # get the column names and store them as a tibble (a format that is nice later)
 colnames <- c("id", colnames(data))
 colnames_tibble <- as_tibble(colnames)
@@ -65,10 +67,18 @@ for (i in 1:nrow(data)) {
     # make nice new column names
     data_row <- data_row |> rename(var = "value", resp = "V1")
     # output the files
-    save(data_row,
-         file = paste0("data/rdata/proposal-", counter, ".RData"))
+    print(paste("almost done:", i))
+    readr::write_csv(data_row,
+                     paste0("data/processed/proposal-", counter, ".csv"))
   }
 }
 # Save new values for the counter and ids to be used next time this is run.
 save(counter, file =  "id-num-counter.RData")
 save(ids, file =  "ids.RData")
+
+# NOTE: TESTING
+counter <- 0
+ids <- c()
+
+save(counter, file = "id-num-counter.RData")
+save(ids, file = "ids.RData")
