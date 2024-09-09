@@ -12,7 +12,7 @@ library(dplyr)
 # remove everything in R's environment
 rm(list = ls())
 # get the file path to where the raw proposal data is (put it there manually)
-proposals_loc <- "data/raw/"
+proposals_loc <- "data/raw-responses/"
 # add the full file path (not the one relative to this project)
 # getwd() returns a string that gives the full file path.
 # paste0 combines the working directory and proposals_loc strings together
@@ -20,10 +20,12 @@ path <- paste0(getwd(), "/", proposals_loc)
 # put all the files at the provided path that match the pattern into a list
 files <- list.files(path, pattern = "\\.csv$", full.names = TRUE)
 # load the list of unique IDs for proposals
-load("ids.RData")
+# TODO: try catch this read statement
+ids <- read.csv("data/ids.csv")
 # load the proposal counter, which creates internal proposal ID codes in
 # "render-proposal.qmd
-load("id-num-counter.RData")
+counter <- read.csv("dara/id-num-counter.txt", header = FALSE)
+counter <- counter[1, ]
 # read in all the files that were listed above. Now they're "in" R
 data_list <- lapply(files, readr::read_csv)
 
@@ -39,20 +41,19 @@ for (i in seq_along(data_list)) {
   data <- bind_rows(data, table)
 }
 
-data
-
 # get the column names and store them as a tibble (a format that is nice later)
-colnames <- c("id", colnames(data))
+colnames <- colnames(data)
 colnames_tibble <- as_tibble(colnames)
 
 # iterate over the rows of "data"
-for (i in 1:nrow(data)) {
-  # if the ID code from row i of "data" is already in "ids", skip the rest of
-  # the loop
-  print(i)
+for (i in seq_len(nrow(data))) {
+
+  # perform the main logic if the `ResponseId` isn't already in `ids`
   if (!(data$ResponseId[i] %in% ids)) {
+
     # increment the proposal counter
     counter <- counter + 1
+
     # process row i of "data"
     # get row i from data and put it in a new, single row table
     data_row <- data[i, ]
@@ -73,12 +74,5 @@ for (i in 1:nrow(data)) {
   }
 }
 # Save new values for the counter and ids to be used next time this is run.
-save(counter, file =  "id-num-counter.RData")
-save(ids, file =  "ids.RData")
-
-# NOTE: TESTING
-counter <- 0
-ids <- c()
-
-save(counter, file = "id-num-counter.RData")
-save(ids, file = "ids.RData")
+write_csv(counter, file =  "data/id-num-counter.RData")
+write_csv(ids, file =  "data/ids.RData")

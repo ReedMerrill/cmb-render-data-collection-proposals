@@ -12,13 +12,15 @@ library(lubridate)
 library(dplyr)
 library(readr)
 library(stringr)
-rm(list = ls())
-load("data/rdata/proposal-1.RData")
+library(readtext)
+path <- "data/processed-responses/"
+target <- "proposal-1.csv"
+data <- read_csv(paste0(path, target))
 desc <- read_csv("data/headings-and-descs.csv")
-unique(data$var)
 desc$question <- paste0("*", desc$question, "*")
 desc$heading <- paste0("**", desc$heading, "**:")
-load("id-num-counter.RData")
+counter <- read.csv("data/id-num-counter.txt", header = FALSE)
+counter <- counter[1, 1]
 cmb_proposal_id <- sprintf("%03d", counter)
 ```
 
