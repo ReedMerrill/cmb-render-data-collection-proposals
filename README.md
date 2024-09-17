@@ -17,5 +17,5 @@ Now there will be new files in "data/rdata".
 - If the Qualtrics survey ever changes: refer to the above note, and ensure that render.qmd has new code to account for any changes in the order or amount of questions in the survey.
 - This repo ignores all the files under "data/", so rendered PDFs should be permanently stored elsewhere and if historical proposal data is required it must be downloaded from Qualtrics.
   - all ".git-keep" files should stay, but don't do anything except ensure that the repo's full file structure is pushed to Github.
-- It's best not to delete "ids.RData" or "id-num-counter.RData" :)
+- It's best not to delete "ids.txt" or "id-num-counter.txt" :)
 - The scripts have a general description of their purpose commented at the beginning of each file, and comments throughout to assist with any debugging or modifications that may be required.

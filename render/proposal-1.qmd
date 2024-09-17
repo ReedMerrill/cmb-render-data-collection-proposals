@@ -1,0 +1,367 @@
+---
+format: pdf
+execute:
+  echo: false
+  warning: false
+  message: false
+prefer-html: true
+---
+
+```{r}
+library(lubridate)
+library(dplyr)
+library(readr)
+library(stringr)
+library(readtext)
+library(here)
+path <- here("data/processed-responses/")
+target <- "proposal-1.csv"
+data <- read_csv(paste0(path, target))
+desc <- read_csv(here("data/headings-and-descs.csv"))
+# add markdown formatting to each question and heading in the descriptions data (used to generate headings and question wording for the doc)
+desc$question <- paste0("*", desc$question, "*")
+desc$heading <- paste0("**", desc$heading, "**:")
+id <- data$resp[1]
+cmb_proposal_id <- sprintf("%03s", id)
+```
+
+<!-- proposal lead -->
+```{r contact, results='asis'}
+if (!is.na(data$resp[22])) {
+  cat("**Proposal Lead:** ", data$resp[22])
+} else {
+  cat("**Proposal Lead:** Not Provided")
+}
+```
+
+<!-- researchers -->
+```{r researchers heading, results='asis'}
+cat("**Participating Researchers**")
+```
+
+```{r researchers resp, results='asis'}
+if (!is.na(data$resp[23])) {
+  participants <- unlist(str_replace_all(data$resp[23], "\n", "; "))
+  cat(participants)
+} else {
+  cat(data$lead)
+}
+```
+
+<!-- submission date -->
+```{r submission date, results='asis'}
+date <- ymd(as_date(data$resp[3]))
+day <- as.character(day(date))
+cat(paste0("**Submission Date:** ", format(date, "%B"), " ", day, ", ", format(date, "%Y")))
+```
+
+<!-- ID number -->
+**Proposal #:** `r cmb_proposal_id`
+
+<!-- pillar -->
+```{r pillar, results='asis'}
+if (!is.na(data$resp[19])) {
+  pillars <- unlist(str_split(data$resp[19], ","))
+  for (i in seq_along(pillars)) {
+    pillars[i] <- pillars[i] |>
+    case_match("1" ~ "Diverse Representation",
+               "2" ~ "Elections and Voting",
+               "3" ~ "Multilevel Governance",
+               "4" ~ "Public Policy")
+  }
+  cat("**Pillar(s)**:", paste(pillars, sep = ", "))
+} else {
+  cat("**Pillar(s)**: None Provided")
+}
+```
+
+<!-- core questions -->
+```{r, results='asis'}
+if (!is.na(data$resp[20])) {
+  cat(desc$heading[19], desc$question[19])
+}
+```
+
+```{r questions resp, results='asis'}
+if (!is.na(data$resp[20])) {
+  questions <- unlist(str_split(data$resp[20], ","))
+  for (i in seq_along(questions)) {
+    questions[i] <- questions[i] |>
+    case_match("1" ~ "1. How well do municipal representatives understand their constituents' preferences? How does this knowledge affect their behaviour as representatives? How can we best provide representatives with information about citizens to strengthen this substantive connection?",
+               "2" ~ "2. How do local government institutions strengthen or weaken turnout, engagement, and representation in Canada? What major or minor reforms might improve local democracy?",
+               "3" ~ "3. How does local engagement and representation vary across places in Canada? What accounts for this variation, and what can we learn from it to improve local democracy?")
+  }
+  # Return each question from questions (to print to stdout and thus be included in the quarto rendered text
+  for (i in seq_along(questions)) {
+    cat(questions[i])
+    cat("\n")
+  }
+}
+```
+
+<!-- data collection -->
+```{r, results='asis'}
+if (!is.na(data$resp[21])) {
+  cat(desc$heading[20], desc$question[20])
+}
+```
+
+```{r dc resp, results='asis'}
+if (!is.na(data$resp[21])) {
+  dc <- unlist(str_split(data$resp[21], ","))
+  for (i in seq_along(dc)) {
+    dc [i] <- dc[i] |>
+    case_match("1" ~ "- Survey data: Municipal Politicians Survey",
+               "2" ~ "- Survey data: General Public Survey",
+               "3" ~ "- Qualitative Data Collection",
+               "4" ~ "- Other")
+  }
+  for (i in seq_along(dc)) {
+    cat(dc[i])
+    cat("\n")
+  }
+}
+```
+
+<!-- desc -->
+```{r, results='asis'}
+if (!is.na(data$resp[24])) {
+  cat(desc$heading[23], desc$question[23])
+}
+```
+
+```{r desc resp, results='asis'}
+if (!is.na(data$resp[24])) {
+  cat(data$resp[24])
+}
+```
+
+<!-- contribution -->
+```{r, results='asis'}
+if (!is.na(data$resp[25])) {
+  cat(desc$heading[24], desc$question[24])
+}
+```
+
+```{r contr resp, results='asis'}
+if (!is.na(data$resp[25])) {
+  cat(data$resp[25])
+}
+```
+
+<!-- audience -->
+```{r, results='asis'}
+if (!is.na(data$resp[26])) {
+  cat(desc$heading[25], desc$question[25])
+}
+```
+
+```{r audience resp, results='asis'}
+if (!is.na(data$resp[26])) {
+  cat(data$resp[26])
+}
+```
+
+<!-- outputs -->
+```{r, results='asis'}
+if (!is.na(data$resp[27])) {
+  cat(desc$heading[26], desc$question[26])
+}
+```
+
+
+```{r outputs resp, results='asis'}
+if (!is.na(data$resp[27])) {
+  cat(data$resp[27])
+}
+```
+
+<!-- kmb -->
+```{r, results='asis'}
+if (!is.na(data$resp[28])) {
+  cat(desc$heading[27], desc$question[27])
+}
+```
+```{r kmb outputs resp, results='asis'}
+if (!is.na(data$resp[28])) {
+  cat(data$resp[28])
+}
+```
+
+<!-- timeline -->
+```{r, results='asis'}
+if (!is.na(data$resp[29])) {
+  cat(desc$heading[28], desc$question[28])
+}
+```
+
+```{r timeline resp, results='asis'}
+if (!is.na(data$resp[29])) {
+  cat(data$resp[29])
+}
+```
+
+<!-- Politician Survey -->
+<!-- questions -->
+```{r, results='asis'}
+if (!is.na(data$resp[30])) {
+  cat(desc$heading[29], desc$question[29])
+}
+```
+
+```{r questions_pol resp, results='asis'}
+if (!is.na(data$resp[30])) {
+  cat(data$resp[30])
+}
+```
+
+<!-- sample -->
+```{r, results='asis'}
+if (!is.na(data$resp[31])) {
+  cat(desc$heading[30], desc$question[30])
+}
+```
+
+```{r sample_pol resp, results='asis'}
+if (!is.na(data$resp[31])) {
+  cat(data$resp[31])
+}
+```
+
+<!-- pew -->
+```{r, results='asis'}
+if (!is.na(data$resp[32])) {
+  cat(desc$heading[31], desc$question[31])
+}
+```
+
+```{r pew_pol resp, results='asis'}
+if (!is.na(data$resp[32])) {
+  cat(data$resp[32])
+}
+```
+
+<!-- Citizen Survey -->
+<!-- questions -->
+```{r, results='asis'}
+if (!is.na(data$resp[33])) {
+  cat(desc$heading[32], desc$question[32])
+}
+```
+
+```{r questions_genpop resp, results='asis'}
+if (!is.na(data$resp[33])) {
+  cat(data$resp[33])
+}
+```
+
+<!-- sample -->
+```{r, results='asis'}
+if (!is.na(data$resp[34])) {
+  cat(desc$heading[33], desc$question[33])
+}
+```
+
+```{r sample_genpop resp, results='asis'}
+if (!is.na(data$resp[34])) {
+  cat(data$resp[34])
+}
+```
+
+<!-- pew -->
+```{r, results='asis'}
+if (!is.na(data$resp[35])) {
+  cat(desc$heading[34], desc$question[34])
+}
+```
+
+```{r pew_genpop resp, results='asis'}
+if (!is.na(data$resp[35])) {
+  cat(data$resp[35])
+}
+```
+
+<!-- qual desc-->
+```{r, results='asis'}
+if (!is.na(data$resp[36])) {
+  cat(desc$heading[35], desc$question[35])
+}
+```
+
+```{r qual resp, results='asis'}
+if (!is.na(data$resp[36])) {
+  cat(data$resp[36])
+}
+```
+
+<!-- qual budget -->
+```{r, results='asis'}
+if (!is.na(data$resp[37])) {
+  cat(desc$heading[36], desc$question[36])
+}
+```
+
+```{r qual_budget resp, results='asis'}
+if (!is.na(data$resp[37])) {
+  cat(data$resp[37])
+}
+```
+
+<!-- qual travel -->
+```{r, results='asis'}
+if (!is.na(data$resp[38])) {
+  cat(desc$heading[37], desc$question[37])
+}
+```
+
+```{r qual_travel resp, results='asis'}
+if (!is.na(data$resp[38])) {
+  cat(data$resp[38])
+}
+```
+
+<!-- other data -->
+```{r, results='asis'}
+if (!is.na(data$resp[39])) {
+  cat(desc$heading[38], desc$question[38])
+}
+```
+
+```{r other_data resp, results='asis'}
+if (!is.na(data$resp[39])) {
+  cat(data$resp[39])
+}
+```
+
+<!-- other budget -->
+```{r, results='asis'}
+if (!is.na(data$resp[40])) {
+  cat(desc$heading[39], desc$question[39])
+}
+```
+
+```{r other_budget resp, results='asis'}
+if (!is.na(data$resp[40])) {
+  cat(data$resp[40])
+}
+```
+
+<!-- ethics -->
+```{r ethics resp, results='asis'}
+if (!is.na(data$resp[41])) {
+  cat(desc$heading[40], desc$question[40])
+  cat("Yes")
+} else {
+  cat("No")
+}
+```
+
+<!-- EDI -->
+```{r edi resp, results='asis'}
+if (!is.na(data$resp[42])) {
+  cat(desc$heading[41], desc$question[41])
+  cat("Yes")
+} else {
+  cat("No")
+}
+```
