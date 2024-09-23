@@ -1,0 +1,168 @@
+var,resp
+id,6
+StartDate,2024-09-10 15:23
+EndDate,2024-09-10 15:32
+Status,0
+IPAddress,174.116.90.65
+Progress,100
+Duration (in seconds),551
+Finished,1
+RecordedDate,2024-09-10 15:32
+ResponseId,R_1dMNN0KtTBygYwe
+RecipientLastName,NA
+RecipientFirstName,NA
+RecipientEmail,NA
+ExternalReference,NA
+LocationLatitude,45.3316
+LocationLongitude,-75.6718
+DistributionChannel,anonymous
+UserLanguage,EN
+pillar,1
+questions,"2,3"
+dc,"1,4"
+lead,"Erin Tolley, Associate Professor, Carleton University  erin.tolley@cunet.carleton.ca"
+participants,"Amanda Bittner, Professor, Memorial University of Newfoundland & Labrador
+abittner@mun.ca
+
+Nicole McMahon, Post-doctoral Fellow, University of Calgary
+nicole.mcmahon1@ucalgary.ca
+"
+description,"This research will assess municipal officeholders’ experience of harassment, its impact, and the strategies that have been adopted to respond to it. It will answer questions about who experiences harassment (including variations across identity group, between long-serving and new municipal officeholders, and across municipality types), what forms harassment takes, how harassment affects the work, engagement, and mental health of officeholders, and what officeholders and municipalities have done (or are doing) to address it. Importantly, while much of the research on harassment looks specifically at the campaign period, we focus on harassment experienced while in office, which we identify as a gap in the research.
+
+The research will draw on two key sources of data. First, we will include a range of questions on the municipal politician survey; these will deal with experiences, impacts, and responses to harassment. Second, we will conduct desk research on policies municipalities have put in place to deal with harassment. We will capture provincially driven legislation (e.g., Bill 5 in Ontario), municipal codes of conduct and/or relevant workplace policies, as well as informal resources / responses to address harassment. We will include policies from a wide range of municipal types and across all provinces. This would likely be a stratified sample of the 1,000 municipalities included in the survey but, if resources permit, we could expand this to a detailed examination of all 91 “CMB cities.” 
+
+We will answer the following research questions:
+(1)	Who experiences harassment?
+(2)	What form does it take?
+(3)	What impact does harassment have on officeholders’ engagement and representative work?
+(4)	What strategies have officeholders and municipalities adopted to address harassment, and have these responses been effective?
+"
+contribution,"Much of the existing research on harassment looks primarily at the campaign period, at a specific form of harassment (primarily online), or exclusively at the federal level. This research offers a limited understanding of the context of harassment once in municipal office. Although some research documents the extent of harassment, it rarely looks at effects, and when effects are taken into account, that research tends to be limited to a single province or city. For example, in 2022, Mireille Lalancette prepared a report for the Ministre des Affaires municipales du Québec, which reported on violence and harassment experienced by the 32 municipal officeholders whom she interviewed for the study. There is an extensive discussion of impacts and potential remedies, but the analysis is limited to Quebec. Similarly, in a recent book chapter, Kate Graham provides a first-person account of harassment experienced in municipal politics, which identifies the forms that this abuse can take, as well as its impact on officeholders, but this is primarily an ethnographic account. We build on this qualitative research base to gather novel, systematic data on the treatment of officeholders across municipalities and provinces, and the consequences for representation. We look not just at who experiences harassment and how, but also at what is (and can be) done about it."
+audience,"There are four main audiences for this proposal: 
+- Researchers (including those in Canadian politics, urban politics, electoral studies, and in the broad “identity” subfields)
+- Municipal staff and officeholders
+- Community organizations and especially those who recruit, train and work with municipal officeholders (e.g., Equal Voice, FCM, AMO, Operation Black Vote Canada)
+- The general public
+"
+outputs,"We are planning a mix of academic and non-academic outputs. The academic outputs include:
+(1)	One refereed journal article analyzing municipal officeholders’ experiences of harassment and their impact; this would analyze differences based primarily on identity group (e.g., gender, race, sexuality, age). Target journals: Urban Affairs Review; Politics and Gender
+(2)	One refereed journal article documenting variations in municipal policies on harassment as well as strategies adopted by survey respondents to address harassment. Target journals: State and Local Government Review; Canadian Journal of Political Science
+(3)	Conference presentations to present drafts of both manuscripts and receive feedback
+"
+outputs_kmb,"The non-academic outputs include:
+(1)	Two infographics that provide lay summaries of key findings from the journal articles
+(2)	An op-ed on the frequency of harassment in municipal politics, the impact it has, and the (in)adequacy of responses; both Tolley and Bittner have pitched and published research-focused op-eds in a number of outlets, including the Globe and Mail, Toronto Star, Ottawa Citizen, Policy Options, and Maclean’s
+(3)	In collaboration with a community organization, a panel discussion that reports on the research and offers first-person accounts from municipal officeholders
+(4)	Samara has expressed an interest in this proposal; although we haven’t discussed anything specific; there may be opportunities to dovetail with their tracking of online harassment in their SamBOT project
+"
+timeline,"Winter 2025: Begin desk research on municipal policies on harassment 
+March 2025 (TBD): Finalize survey questions
+Spring 2025: Survey in field (anxiously await data!)
+May to September 2025: Analyze survey data and draft paper on experiences and impacts 
+Fall 2025: Present paper at Prairie or Atlantic Political Science Association; revise based on feedback
+January 2026: Submit experiences and impacts MS for review
+January – May 2026: Draft paper on policies and responses to harassment; revise and resubmit experiences and impacts MS
+May 2026: Present paper Canadian Political Science Association; revise based on feedback
+August 2026: Submit policies and responses MS for review
+Fall 2026 and beyond: Knowledge mobilization, including op-ed, infographics and public panel"
+questions_pol,"A. EXPERIENCES OF HARASSMENT
+
+1. While in office, some municipal politicians experience harassment, intimidation and threats to their security. How often have you experienced any of the following while serving on council?
+
+- Belittling language or insults at public events
+- Belittling language or insults on social media
+- In-person threats of harm
+- Online threats of harm
+- Interference with office property or materials (e.g., defacing of literature, destruction of property)
+- Interference with personal property or materials (e.g. visits to the home, threatening phone calls)
+- Physical attacks
+
+[Options for all are Never, Once, A few times, Many times]: these could be asked separately or in a matrix
+
+2. If the answer to any of the above questions is “yes,” then ask:
+- To what extent did the insults, harassment or harm you experienced target your identity based on (selection all that apply):
+	- gender
+	- race
+	- sexuality
+
+3. How often has your family experienced harassment, intimidation, or violence because of your work on municipal council? [Never, Once, A few times, Many times]
+
+4. How often have members of your staff experienced harassment, intimidation, or violence in the course of their work? [Never, Once, A few times, Many times]
+
+5. Have you ever witnessed harassment, intimidation, or violence directed at another member of council? [Never, Once, A few times, Many times]
+
+B. IMPACT OF HARASSMENT:
+
+1. As a municipal officeholder, how would you characterize the general climate of municipal politics
+[scale from Very Inclusive and Welcoming to Not At All Inclusive or Welcoming]
+
+2. How strongly do you agree or disagree with the following statements: 
+- The [costs] of political involvement outweigh the [benefits] [reverse for half of respondents]
+- My mental wellbeing has positively(negatively) affected my ability to do my job
+- I have considered not interacting with my constituents because of my mental wellbeing.
+ 
+3. Would you say harassment in municipal politics is:
+- A big problem in my municipality
+- Somewhat of a problem in my municipality
+- Not a problem at all in my municipality
+
+Progressive ambition and future office-seeking:
+4. Would you run federally?
+5. Would you run provincially? 
+6. Do you plan to run again municipally?
+
+C. RESPONSES TO HARASSMENT:
+
+1. How would you rate your municipality’s response to harassment in politics:
+- Very effective
+- Somewhat effective
+- Not effective at all
+
+[Anyone who answered yes to any of the experiences of harassment questions in Part A] 
+2. Which of the following strategies have you employed to address the harassment, intimidation, or harm you, your staff, or your family experienced as a result of your work in municipal politics?
+- Ignored it
+- Blocked on social media
+- Reported it to municipal clerk 
+- Reported it to police
+- Reported it to social media platform
+- Put a safety plan in place (e.g., extra security)
+- Other [specify]
+
+D. DEMOGRAPHICS:
+
+To conduct our research, we require responses to several demographic questions. This will provide important nuance to our understanding of the experiences and impact of harassment. These questions are essential for our specific module, but we would also make the case that they are essential overall, so hopefully they are included as “collective” questions:
+
+1. Officeholder gender (recommend CES Q which includes Non-binary as an option then a write-in; we can provide wording)
+2. Officeholder race (current CMB Q fine)
+3. Officeholder age (either year of birth, or an age range)
+4/5. Questions that capture sexual orientation and trans identities in addition to gender (there are two separate Qs on the CES; we recommend these); McMahon’s current research suggests LGBTQ+ politicians are the targets of specific forms of harassment, so these Qs are crucial
+6. A question on the number of years the officeholder has served (e.g., What is the total number of years you have served on council; or a question based on how many terms they have held current office, or first year elected)
+7. We also hope it will be possible to disaggregate data based on characteristics of municipalities (e.g., municipality size, election type, partisan or non-partisan); we would be attentive to issues related to anonymity
+"
+sample_pol,"We would like these questions to be asked of every municipal officeholder to ensure we capture a sufficient number of respondents from key identity groups, as well as variation across provinces and city types."
+pew_pol,"'- This was hard to calculate because I’m not entirely sure what to count as a battery and what to count as a separate question, but my conservative (i.e. high) estimate is 20 Pew Points."
+questions_genpop,NA
+sample_genpop,NA
+pew_genpop,NA
+qual,NA
+qual_budget,NA
+qual_travel,NA
+other_data,"The survey will gather data on municipal officeholders’ individual-level strategies for addressing harassment (e.g., reported the harassment, hired security, no longer attend community events alone, blocked people on social media). Alongside these individual-level strategies, we are also interested in institutional-level responses. We thus would like to conduct desk research on what municipalities are doing to deal with harassment. This desk research will be based on searches of municipal and provincial websites, media reporting, and targeted contact with municipal clerks and/or municipal associations (e.g., AMO, FCM). It will capture provincially driven legislation (e.g., Bill 5 in Ontario), municipal codes of conduct and/or relevant workplace policies, as well as informal resources / responses to address harassment. Once these documents are collected, they would be coded to identify types of responses (e.g., recall, workplace training, mental health counselling). This data would then be assessed alongside the individual-level responses identified in the survey.
+
+The desk research would likely be drawn from a stratified sample of the 1,000 municipalities included in the survey. However, if resources permit and the steering committee is particularly keen, a detailed examination could cover all 91 “CMB cities.” This research would be conducted by student RAs.
+"
+other_budget,"Our budget estimate includes resources for RA training, data collection and coding.
+
+- Initial RA training (10 hours)
+- Provincial-level legislation, policies, regs and associated coding (10 hours per province x 10 provinces = 100 hours)
+
+[In total, we require 100 hours for training and provincial-focused research. To this, we would add resources for data collection and coding in selected municipalities]
+
+- Municipal-focused research for each included municipality plus associated coding (5 hours per municipality):
+- Low end: one larger and one smaller municipality in each province for a total of 20 municipalities (100 municipal hours + 100 = 200 hours total)
+- Medium end: stratified sample of 40 municipalities of varying sizes (200 municipal hours + 100 = 300 hours)
+- High end: all 91 “CMB cities” (455 municipal hours + 100 = 555 hours)
+
+We recommend the medium option although could be convinced on the high end one! Depending on how many hours CMB RAs use in their collection of data for the politician survey, we estimate 3/4s of the data collection and coding could be completed by Grace Miura-Wong at Carleton. It is likely we would require additional resources for the remaining 75 hours; to economize, this work would be conducted by an undergraduate student (at a rate of $25/hr + 12% benefits + vacation pay. This is a budget ask of $2,100 in addition to the remainder of Miura-Wong’s RA hours for 2024-2025."
+ethics,1
+edi,1

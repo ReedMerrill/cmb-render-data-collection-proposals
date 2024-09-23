@@ -1,0 +1,35 @@
+---
+format: pdf
+execute:
+  echo: false
+  warning: false
+  message: false
+prefer-html: true
+---
+
+Do extra newlines between list items matter for rendering to PDF?
+
+Unordered List (spaces)
+
+- line 1
+
+- line 2
+
+- line 3
+
+Unordered List (**NO spaces**)
+
+- line 1
+
+- line 2
+
+- line 3
+
+Ordered List
+
+1. line 1
+
+2. line 2
+
+3. line 3
+

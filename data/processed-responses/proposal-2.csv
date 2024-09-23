@@ -1,0 +1,259 @@
+var,resp
+id,1
+StartDate,2024-08-12 7:56
+EndDate,2024-08-12 8:14
+Status,0
+IPAddress,130.241.134.21
+Progress,100
+Duration (in seconds),1048
+Finished,1
+RecordedDate,2024-08-12 8:14
+ResponseId,R_2wNjXy84BWuhZCh
+RecipientLastName,NA
+RecipientFirstName,NA
+RecipientEmail,NA
+ExternalReference,NA
+LocationLatitude,57.7065
+LocationLongitude,11.967
+DistributionChannel,anonymous
+UserLanguage,EN
+pillar,-99
+questions,1
+dc,"1,2"
+lead,"Elena Leuschner, PhD candidate University of Gothenburg, elena.leuschner@gu.se, Univeristy of Gothenburg"
+participants,-99
+description,"Large protests are important signals of the public's opinion. The circumstance that many people have come together to protest on the streets shows that many among the wider public share a concern for which they are willing to coordinate and voice their opinions. Additionally, since protest participation is costly and allows individuals to free-ride, it is reasonable to assume that the protesters on the streets represent the interests of many more people who stayed at home: The more protesters are on the streets, the more people in the population support the protest’s cause.
+
+
+
+But do politicians perceive protests as signals of public opinion that represent the interest of many? Understanding that the number of protesters likely underestimates the true level of public support for an issue, politicians might be more inclined to respond to the demands of protesters. Previous research commonly assumes that politicians are aware of the costs of protesting and interpret protests as a signal of broader public support for the cause (e.g., Gause 2022; Tilly 1978), but this remains empirically untested. In this paper, I aim to address this gap and argue that the larger the protest, the more popular politicians expect protesters’ demand to be among the population, and the larger the difference between politicians’ expected share of supporters and actual public support. Moreover, I hypothesize that these effects of protests are similar for politicians and citizens, implying that large protests are effective at raising an issue's salience.
+
+
+
+I test these hypotheses in survey experiments with municipal politicians and a representative sample of citizens in Canada. Surveying municipal politicians has the advantage of targeting those politicians who engage most directly with protesters and who are responsible for common protest issues. Canada is a country that experiences many protests and where local politics is highly salient. In a fictive scenario, protesters raise the demand for citizens’ assemblies to tackle climate change, which is a demand popularized by the protest movement Last Generation Canada. I test how much public support politicians expect for the protesters' demand across protests that vary in size. Additionally, by leveraging attitude measures on the protest's demand among a representative sample of Canadian citizens, I test whether politicians' expected support for the demand systematically deviates from the actual support among citizens. In a final step, I compare whether the effects of protest on the perception of public opinion differ between politicians and citizens."
+contribution,"To understand the link between protest and politicians' perception of public opinion, it is vital to test how protest size affects politicians’ perception of the popularity of a political demand. 
+
+This study offers the first experimental test of one of protest literature's core assumptions: that political decision-makers take into account the collective action problems that pervade protest participation. The experiment innovates by surveying those responsible for being responsive to constituents’ demands and deepens our knowledge of how the political impact of protest is shaped by the logic of collective action. Further, results give unique insights into how politicians’ perception of protests differs or aligns with citizens’ perception. Finally, this study contributes to the growing literature on how politicians gather information about public opinion and the effects of such signals on their responsiveness and attitudes (e.g., Sheffer, Loewen, Lucas 2023; Walgrave, Soontjes, Sevenans 2022)."
+audience,"This proposal is of interest to political science scholars of political behavior and comparative politics. More specifically, it addresses researchers studying the effects of protests, the link between public opinion and politicians’ responsiveness, or how political elites form their perception of public opinion. Additionally, this research is of interest to practitioners. For example, protest organizers can learn how important the size of a protest is for its impact on public opinion. Since the survey includes a real-world protest demand, this study offers representative data on the popularity of this demand and how a protest’s size affects the perceived popularity of the protest among politicians and citizens. Politicians can gain insights into how protests affect their own and their colleagues’ perceptions of public opinion."
+outputs,The intended output of this proposal is a journal article that I will submit to peer-reviewed general political science journals that are the highest ranking in their field.
+outputs_kmb,"To disseminate the findings to a wider public, I would like to publish a newspaper article describing the research findings in the context of a timely protest example. The research findings can be further distributed via press releases from the University of Gothenburg (such a press release is distributed to outlets such as ScienMag or Mirage News), social media such as X, or via my personal website."
+timeline,"Estimated time of CMB decision: Mid-September 2024
+
+
+
+October 2024: Application for ethical approval.
+
+
+
+December 2024: Pre-registration on OSF, draft of the introduction and theoretical argument of the paper.
+
+
+
+January 2025: Data collection via the Municipal Politian Barometer and the general public survey.
+
+
+
+During the first 3 months after data is received: Data analysis to test the pre-registered hypotheses, conduct robustness tests, generate descriptive statistics.
+
+
+
+During 6 months after data is received: finalize introduction, theoretical argument, research design, analysis, discussion and conclusion of the paper and prepare for submission. 
+
+
+
+Within 12 months after data is received: Submit to high-ranking, peer-reviewed journals in political science, present at international political science conferences such as EPSA and APSA and workshops.
+
+"
+questions_pol,"## Pre-treatment ##
+
+To what extent do you think that the average population in Canada would agree with the following statements? [5-point Likert scale, Agree to large extent - Not agree at all, randomized order] 
+
+•	To help reduce greenhouse gas emissions, the federal government should continue the carbon tax 
+
+•	Creating space for and building affordable housing should be prioritized, even if it comes at the cost of local economic development or ecological preservation. 
+
+•	Given ongoing conflicts and crises around the world, the federal government should increase its spending on defense. 
+
+
+
+
+
+## Treatment ##
+
+Municipalities play a crucial role in mitigating the risks of climate change and building resilient communities. 
+
+
+
+Imagine that a group of around [SIZE] people in your municipality staged a protest to demand that a citizens’ assembly be implemented to tackle the climate and ecological crisis. 
+
+
+
+[SIZE: 50; 10,000]
+
+
+
+
+
+## Attention check ## (Optional)
+
+Think of the description of a protest that you just read. The protest concerned [single-choice, randomized order] 
+
+•	affordable housing
+
+•	climate change
+
+•	schooling 
+
+
+
+
+
+## Manipulation check ##
+
+Think of the description of the street protest you read, how would you describe the protest? [single-choice, randomized order] 
+
+•	The number of protesters was rather small.
+
+•	The number of protesters was moderate.
+
+•	The number of protesters was extraordinarily large. 
+
+
+
+
+
+## Mechanism ##
+
+If your party is unwilling to implement a citizens’ assembly on climate change in the municipality, would you expect there to be any repercussions, such as... [5-point Likert scale, Very likely - Very unlikely, randomized order] 
+
+•	...more citizens signing petitions or protesting demanding a citizens’ assembly. 
+
+•	...protesters turning toward civil disobedience demanding a citizens’ assembly. 
+
+•	...lower voter turnout in the upcoming election. 
+
+•	...decreased electoral support for your party in the upcoming election. 
+
+
+
+
+
+## Outcomes ##
+
+To what extent do you think that the average population in Canada would agree with protesters’ demand to create a citizens’ assembly to tackle climate change? [5-point Likert scale, Agree to large extent - Not agree at all] 
+
+
+
+Give your best estimate: What percentage of citizens would agree with protesters’ demand to create citizens’ assemblies to tackle climate change? [Slider, 0 to 100%] 
+
+
+
+To what extent do you agree with protesters’ demand to create citizens’ assemblies to tackle climate change? [5-point Likert scale, Agree to large extent - Not agree at all] 
+
+
+
+Under what circumstances would you take the initiative to promote increased spending for the environment? 
+
+•	Citizens are protesting for a citizens’ assembly on climate change every week. 
+
+•	More and more of your party colleagues are considering promoting a citizens’ assembly on climate change. 
+
+•	Survey polls show that a large majority of citizens in your municipality are in favor of a citizens’ assembly on climate change. 
+
+•	I would promote a citizens’ assembly on climate change in any case. 
+
+"
+sample_pol,"The treatment has two levels. To identify a very small effect of the size 0.1 with a statistical power of 0.8, I need a sample of 782 respondents. However, I will exclude respondents who haven’t finished the survey until the outcome questions. Additionally, I aim to conduct a robustness check only including respondents who have not failed the manipulation check. To account for these additional tests a sample size of 800 or larger would be favorable.
+
+
+
+All municipal politicians in Canada are of interest to be included in the sample.
+
+"
+pew_pol,"My proposed survey requires 13.88 PewPoints (excluding attention check, including attention check I calculate 20,89). I calculated: 0.67+0.67+0.67+1+0.67+0.67+0.67+0.67+0.67+0.67+0.67+1+1.5+1+0.67+0.67+0.67+0.67"
+questions_genpop,"## Treatment ##
+
+Municipalities play a crucial role in mitigating the risks of climate change and building resilient communities. 
+
+
+
+Imagine that a group of around [SIZE] people in your municipality staged a protest to demand that a citizens’ assembly be implemented to tackle the climate and ecological crisis. 
+
+
+
+[SIZE: 50; 10,000]
+
+
+
+
+
+## Attention check ## (Optional)
+
+Think of the description of a protest that you just read. The protest concerned [single-choice, randomized order] 
+
+•	affordable housing
+
+•	climate change
+
+•	schooling 
+
+
+
+
+
+## Manipulation check ##
+
+Think of the description of the street protest you read, how would you describe the protest? [single-choice, randomized order] 
+
+•	The number of protesters was rather small.
+
+•	The number of protesters was moderate.
+
+•	The number of protesters was extraordinarily large. 
+
+
+
+
+
+## Outcomes ##
+
+To what extent do you think that the average population in Canada would agree with protesters’ demand to create a citizens’ assembly to tackle climate change? [5-point Likert scale, Agree to large extent - Not agree at all] 
+
+
+
+Give your best estimate: What percentage of citizens would agree with protesters’ demand to create citizens’ assemblies to tackle climate change? [Slider, 0 to 100%] 
+
+
+
+To what extent do you agree with protesters’ demand to create citizens’ assemblies to tackle climate change? [5-point Likert scale, Agree to large extent - Not agree at all] 
+
+
+
+
+
+## Post-treatment ##
+
+To what extent do you agree with the following statements? [5-point Likert scale, Agree to large extent - Not agree at all, randomized order] 
+
+•	To help reduce greenhouse gas emissions, the federal government should continue the carbon tax 
+
+•	Creating space for and building affordable housing should be prioritized, even if it comes at the cost of local economic development or ecological preservation. 
+
+•	Given ongoing conflicts and crises around the world, the federal government should increase its spending on defense.
+
+"
+sample_genpop,"The treatment has two levels. To identify a very small effect of the size 0.1 with a statistical power of 0.8, I need a sample of 782 respondents. However, I will exclude respondents who haven’t finished the survey until the outcome questions. Additionally, I aim to conduct a robustness check only including respondents who have not failed the manipulation check. To account for these additional tests a sample size of 800 or larger would be favorable.
+
+
+
+A representative sample of Canadians would be preferable.
+
+"
+pew_genpop,"My proposed survey requires 8,52 PewPoints (excluding attention check, including attention check I calculate 10,53). I calculated: 1+0.67+0.67+0.67+1+1.5+1+0.67+0.67+0.67"
+qual,NA
+qual_budget,NA
+qual_travel,NA
+other_data,NA
+other_budget,NA
+ethics,1
+edi,1

@@ -1,0 +1,63 @@
+var,resp
+id,23
+StartDate,2024-09-12 15:40
+EndDate,2024-09-16 17:54
+Status,0
+IPAddress,142.167.96.134
+Progress,100
+Duration (in seconds),353628
+Finished,1
+RecordedDate,2024-09-16 17:54
+ResponseId,R_5XOA4VWa02o4IjD
+RecipientLastName,NA
+RecipientFirstName,NA
+RecipientEmail,NA
+ExternalReference,NA
+LocationLatitude,46.2761
+LocationLongitude,-62.9985
+DistributionChannel,anonymous
+UserLanguage,EN
+pillar,3
+questions,-99
+dc,1
+lead,Matthew Pelletier
+participants,MLG pillar members
+description,"I spoke with the rest of the FCM policy team and this is the list of survey questions from the 2022 survey that we think would be really valuable to include in future CMB surveys.
+
+ 
+
+•	igr_channels_fed/pt How important is each of the following channels when interacting or engaging with the federal government? This one has a ranking option which includes FCM convened meetings as an option. The provincial one offers some insights into PTAs as well.
+
+•	igr_spokesperson Who is the most important spokesperson for your municipality when communicating with other orders of government? This one produced a good finding for us because it showed that CAOs/Managers often have a higher likelihood of being identified as their municipality’s spokesperson in towns with smaller populations
+
+•	Fiscal questions – useful for our Municipal Growth Framework Research
+
+o	revenue_sources If you could choose any of the following options for raising revenue, which would you prefer? Please select up to three items
+
+o	revenue_rank Please rank your choices, beginning with your most preferred option
+
+o	operatingcuts Imagine that your municipality faced a situation where you had to cut five percent from your operating budget. In which of the following areas would you make those cuts? Please select up to five items.
+
+•	fiscalhealth Thinking about the overall fiscal health of your municipality today on a scale of 0 to 10, where 0 is the worst (fiscal crisis) and 10 is the best (perfect fiscal health), how would you rate your municipality’s overall fiscal health today?
+
+
+
+I also know that our CEO’s office is planning to do a membership survey – mostly geared to our role as facilitators between members and the feds. This is happening in tandem with recently-concluded general public survey on the municipal perception of municipalities, commissioned by Abacus Data."
+contribution,"These questions would act is a useful form of continuity from previous survey content, and allow locally-elected officials to consider IGR in the context of (what will likely be) a change of government at the federal level. It would also be well-aligned with FCM's work to engage members to learn more on their preferred IGR approaches."
+audience,"Researchers, general public, elected officials"
+outputs,"Summary reports, op-eds, insights for engagement with locally-elected officials"
+outputs_kmb,N/A - non-academic
+timeline,DK - can probably happen with other surveying efforts. Op-ed or summary report could take a few days depending on availability.
+questions_pol,See first page
+sample_pol,DK
+pew_pol,30
+questions_genpop,NA
+sample_genpop,NA
+pew_genpop,NA
+qual,NA
+qual_budget,NA
+qual_travel,NA
+other_data,NA
+other_budget,NA
+ethics,1
+edi,1

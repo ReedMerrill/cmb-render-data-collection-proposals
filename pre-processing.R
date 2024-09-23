@@ -64,11 +64,12 @@ for (i in seq_len(nrow(data))) {
     # add a counter column and make its value be current value of "counter"
     data_row <- bind_cols(tibble(counter), data_row)
     # transpose and convert back to being a tibble
-    data_row <- as_tibble(t(data_row[i, ]))
+    data_row <- as_tibble(t(data_row))
     # add the column of old colnames (it is essentially *very* long data now)
     data_row <- bind_cols(colnames_tibble, data_row)
     # make nice new column names
     data_row <- data_row |> rename(var = "value", resp = "V1")
+    print(data_row)
     # output the files
     print(paste("almost done:", i))
     readr::write_csv(data_row,

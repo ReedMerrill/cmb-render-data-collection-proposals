@@ -1,0 +1,119 @@
+var,resp
+id,19
+StartDate,2024-09-12 8:15
+EndDate,2024-09-13 14:49
+Status,0
+IPAddress,205.151.70.18
+Progress,100
+Duration (in seconds),110052
+Finished,1
+RecordedDate,2024-09-13 14:49
+ResponseId,R_6tbdPDn0Qqk27MN
+RecipientLastName,NA
+RecipientFirstName,NA
+RecipientEmail,NA
+ExternalReference,NA
+LocationLatitude,45.5191
+LocationLongitude,-73.6852
+DistributionChannel,anonymous
+UserLanguage,EN
+pillar,-99
+questions,"2,3"
+dc,1
+lead,"Audrey Brennan, postodctoral fellow, Audrey.Brennan@ulb.be, Institut National de Recherche Scientifique (INRS)"
+participants,-99
+description,"For the project ""They Got a Ticket to Run: Navigating Ballot Access for Local Canadian Politicians"", I propose a survey module to determine which institutional barriers candidates face, how these barriers impact their access to the ballot, and how these barriers impact candidates across provinces and municipalities. 
+
+
+
+Three factors influence a citizen’s decision to run for office: personal, contextual, and legal. The personal characteristics refer to notions of substantive and descriptive representation, as well as other personal determinants of aspiring candidates. For instance, women are less likely to run for election, and less likely to see themselves as qualified enough to run, unless they see more women run for office. Contextual factors include, but are not limited to, incumbent effects, which may discourage or encourage potential candidates to run for office. Legal factors refer to government institutions, and rules which candidates running for office are subjected to. These factors can influence turnout and the candidate pool. 
+
+
+
+To fully understand turnout and candidate pools we must consider the ballot access process for local candidates (legal factor). This project will allow us to consider the role played by institutions in the process of becoming a municipal election candidate in Canada. This project focuses on the legal/institutional factors and asks: how do ballot access procedures encourage and deter municipal election candidates to run for office? Which candidates are affected? Why?  Which jurisdictions are affected? Why?
+
+
+
+Drometer, M., Rincke, J., 2009. The impact of ballot access restrictions on electoral competition: evidence from a natural experiment. Public Choice 
+
+138, 461–474.
+
+Fox, R.L., Lawless, J.L., 2004. Entering the arena? gender and the decision to run for office. American Journal of Political Science 48, 264–280. 
+
+Loewen, P.J., Blais, A., 2006. Did bill c-24 affect voter turnout? evidence from the 2000 and 2004 elections. Canadian Journal of Political  Science/Revue canadienne de science politique 39, 935–943. 
+
+Stratmann, T., 2005. Ballot access restrictions and candidate entry in elections. European Journal of Political Economy 21, 59–71.
+
+"
+contribution,"The contribution of this project is multifaceted. First, it considers the institutionnal hurdles (ballot access) faced by all elites in the sample in their path to elected office. Second, it will determine which institutional (legal) factors facilitate and/or hinder access to elected office (ballot access) across age, gender, province, and municipality type. The results will enable us to submit policy briefs to all interested jurisdictions (municipalities/provinces), specifically those aiming to diversify their candidate pools, or simplify or streamline their nomination processes, helping them achieve their goals with clear evidence of what works and what does not. Finally, the project will contribute to the broader literature on institutional barriers, offering insight into how governments can enhance and diversify their candidate pools."
+audience,"Policy makers, politically inclined citizens, election governing bodies, and academics."
+outputs,Article to be submitted to the Election Law Journal or the Canadian Journal of Political Science
+outputs_kmb,"Website post, and short report sent to election governing bodies or likely interested jurisdictions"
+timeline,"This is a 9-12 month project
+
+•	January – March 2025: field questions elite survey
+
+•	April/May : Write blog post on preliminary results
+
+•	June 2025: Present preliminary results at CPSA and/or SQSP, other suggestions welcomed
+
+•	July/August: Write short report for election governing bodies
+
+•	Fall 2025: Submit for publication
+
+"
+questions_pol,"ba_nomination_process On a scale of 0 to 10, where 0 is easy and 10 is difficult, how would you rate the process through which you had to file to become a [position candidate ran for]?
+
+
+
+ba_nomination_difficulty_deason Among the following, which nomination requirements influenced your response to the above question? (Select all that apply)
+
+1.	Required number of signatures
+
+2.	Filing fees
+
+3.	Access to information
+
+4.	Wait period
+
+5.	Obtaining the support of a party
+
+6.	Other (please specify)
+
+
+
+ba_process_effect On a scale of 0 to 10, where 0, where 0 is not at all and 10 is very much, how has the nomination process affected your motivation to run?
+
+
+
+ba_process_effect_text Please describe how this affected your motivation to run [text box ~ 150-200 words]
+
+
+
+ba_nomination_process_suggest Among the following, which nomination requirement should imperatively be revised to facilitate the nomination process? 
+
+1.	Required number of signatures
+
+2.	Filing fees
+
+3.	Access to information
+
+4.	Wait period
+
+5.	Obtaining the support of a party
+
+6.	Other (please specify)
+
+"
+sample_pol,Full sample
+pew_pol,11-Oct
+questions_genpop,NA
+sample_genpop,NA
+pew_genpop,NA
+qual,NA
+qual_budget,NA
+qual_travel,NA
+other_data,NA
+other_budget,NA
+ethics,1
+edi,1

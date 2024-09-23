@@ -1,0 +1,134 @@
+var,resp
+id,9
+StartDate,2024-09-12 10:21
+EndDate,2024-09-12 10:32
+Status,0
+IPAddress,172.219.181.64
+Progress,100
+Duration (in seconds),606
+Finished,1
+RecordedDate,2024-09-12 10:32
+ResponseId,R_1yezqqZd0fmOLCh
+RecipientLastName,NA
+RecipientFirstName,NA
+RecipientEmail,NA
+ExternalReference,NA
+LocationLatitude,51.0857
+LocationLongitude,-114.0234
+DistributionChannel,anonymous
+UserLanguage,EN
+pillar,-99
+questions,"1,2,3"
+dc,"1,2"
+lead,"Jack Lucas, Professor, jack.lucas@ucalgary.ca"
+participants,"Nicole McMahon, CMB Postdoc, Calgary
+Sarah Lachance, POLPOP Postdoc, Calgary
+Dave Armstrong, CRC, Western
+Lior Sheffer, Associate Professor, Tel Aviv
+Sophie Borwein, Assistant Professor, UBC
+Sandra Breux, CRC, INRS"
+description,"This proposal is intended to represent one of the ""heart and soul"" data collection undertakings of the CMB partnership. It flows directly out of the specific research projects we proposed to undertake in the grant application, and makes the most of the opportunity we have for recurring parallel mass and elite data collection. 
+
+Politicians’ knowledge of their constituents’ preferences is generally understood to be central to meaningful substantive representation. But how well do elected representatives actually understand their constituents’ attitudes? After decades of research, three central and recurring findings are especially clear: 
+
+1. While politicians’ perceptions of public preferences are generally responsive to constituents (meaning that politicians in places with higher levels of support for an issue generally perceive that support is higher), these perceptions are also plagued by large and persistent errors. Even more concerningly, these perceptual errors are often directionally biased, meaning that politicians tend to systematically overestimate the conservatism of their constituents’ policy preferences; 
+
+2. Despite repeated and rigorous attempts to identify individual-level characteristics of politicians that predict stronger or weaker performance on perceptual accuracy (role perceptions, time in office, elected position, etc.), almost no consistent individual-level characteristics have been identified, with the partial exception of projection (politicians project their own views onto constituents) and ideology (conservative politicians tend to perform more poorly on perceptual tasks); 
+
+3. In contrast to the constituent null findings on individual-level characteristics, studies have repeatedly found that politicians’ perceptual accuracy varies dramatically across policy issues, with extremely accurate perceptual scores on some issues and wildly inaccurate scores on other issues. Despite these consistent findings, very few studies have focused on the characteristics that make policy issues more or less difficult. 
+
+Given our access to both elite and mass survey data over multiple years, the Canadian Municipal Barometer has the opportunity to develop an exceptionally rigorous issue-level theory of perceptual accuracy, explaining the characteristics that make policy issues more or less challenging for politicians. We see this analysis as critical to developing a more general issue theory of political representation which explores how core elements of political representation – selection vs. sanction models, issue congruence, perceptual accuracy, descriptive representation, etc. – actually vary substantially across different issue domains and issue characteristics."
+contribution,The scale and rigour of the data collection we'll be doing for this proposal is completely unprecedented.
+audience,Academic researchers.
+outputs,"This proposal is meant to generate two main papers, both of which will target top international political science and/or general science journals: 
+
+Paper 1 (Descriptive/Observational): This paper will focus on the question of how perceptual accuracy varies across issue characteristics, with perceptual accuracy measured in terms of both absolute error and conservative bias. The purpose of this paper is to provide a comprehensive overview of the characteristics of issues that make them “hard” or “easy” for politicians. 
+
+Paper 2 (Experimental): This paper will focus on the effectiveness of a token-distribution task for improving politicians’ perceptual accuracy using an experiment embedded in the research design. More importantly, however, the “topic sampling” approach to the research design allows us to explore heterogeneity in this treatment effect: under what circumstances, and for what sorts of issues, does thinking about the distribution of public opinion improve politicians’ perceptual accuracy? 
+
+While these two papers are the initial intended outputs from this data collection effort, we emphasize that this module will enable many other outputs, some of which are likely to be just as important and high-impact as the papers described above. We also anticipate that the module will serve as the empirical heart of a book manuscript on policy representation in Canadian municipalities, to be written in years 6-7 of the project. For example, here are some additional papers that we anticipate will flow from this module: 
+
+1. Because we are collecting the politicians’ views on each statement, our data collection will also enable issue-level analyses of congruence between politicians and citizens across an unprecedented number of issues. 
+
+2. A necessary ingredient for our analysis in this paper will be high-quality MRP estimates of local attitudes on twenty issues per year, and 100 issue statements total, all of which can be shared on the project website, used in follow-up experiments with politicians and others, and shared as part of the local democracy lab’s work
+
+3. Our issue questions can include questions on issues that are of interest to CMB researchers for other purposes, provided that they fit with our general question template. This will enable researchers to do more specific analyses on citizen/elite attitudes on important policy issues
+
+4. Politicians will be asked about the percentage of constituents who have no opinion on each issue. This can potentially generate another set of papers about politicians’ understanding of how many of their constituents are engaged on issues, and how this perceptual accuracy varies across issues. These perceptions of issue salience are theoretically important and can generate additional work. 
+
+5. Our tokens module will generate extremely rich data on how politicians work through the task of thinking about the distribution of those with no opinion, supporters, and opponents on policy issues, and we’ll have data from hundreds of politicians across about 100 issues."
+outputs_kmb,"The data collection at the heart of this proposal will generate countless interactive data visualizations on the website that are central to the ""feedback loop"" we promised to create (and test) in our grant application."
+timeline,"This is a five-year effort. Data collection in years 1-5, and then analysis and writing in years 6-7."
+questions_pol,"We have created a list of 26 policy questions each year (for the full list, see the section on the citizen survey). Each politician will answer the following questions about a random draw of three of these questions. 
+
+	What percentage of residents do you think have an opinion on this issue? [%, DK]
+	
+Of those who have an opinion, what percentage agree with this statement? [%, DK]
+
+And what is your own opinion on this statement? [Strongly agree, somewhat agree, somewhat disagree, strongly disagree, no opinion]
+
+In addition, each politician will complete the “tokens module” for a random draw of one of the 26 policy questions. Each year, politicians will complete a “tokens” module for one of the twenty questions (drawn at random, and not including the four basic perception questions). We will share a screenshot of the tokens module with the scientific steering committee. The module will be adapted such that there are five bins, matching the response options above (strongly agree, somewhat agree, somewhat disagree, strongly disagree, don’t know/no opinion). After completing the tokens module, politicians will be asked three additional questions: 
+
+And what is your own opinion on this statement? [Strongly agree, somewhat agree, somewhat disagree, strongly disagree, no opinion]
+
+Finally, how would you characterise the state of public opinion among your constituents on this policy issue? 	
+
+1 (Flexible) - 2 - 3 - 4 - 5 (Fixed)
+1 (Ignorant) - 2 - 3 - 4 - 5 (Knowledgeable)
+1 (Low-Importance to Voters) - 2 - 3 - 4 - 5 (High-Importance to Voters)"
+sample_pol,All politicians
+pew_pol,"Three questions * three issues = 9 points, Tokens module = 6 points, Total = 15 points"
+questions_genpop,"Each citizen will provide their opinion on a random draw of eight policy statements. The question structure should be as follows: 
+
+What is your opinion on the following policy issues?
+
+Issue_1 Strongly Disagree, Somewhat Disagree, Somewhat Agree, Strongly Agree, No Opinion 
+Issue_2 Strongly Disagree, Somewhat Disagree, Somewhat Agree, Strongly Agree, No Opinion 	
+Issue_3 Strongly Disagree, Somewhat Disagree, Somewhat Agree, Strongly Agree, No Opinion 	
+Issue_4 Strongly Disagree, Somewhat Disagree, Somewhat Agree, Strongly Agree, No Opinion
+
+And what is your opinion on the following policy issues? 
+
+Issue_5 Strongly Disagree, Somewhat Disagree, Somewhat Agree, Strongly Agree, No Opinion 
+Issue_6 Strongly Disagree, Somewhat Disagree, Somewhat Agree, Strongly Agree, No Opinion 	
+Issue_7 Strongly Disagree, Somewhat Disagree, Somewhat Agree, Strongly Agree, No Opinion 	
+Issue_8 Strongly Disagree, Somewhat Disagree, Somewhat Agree, Strongly Agree, No Opinion
+
+We have developed a protocol by which we will collect 128 policy statements which vary in theoretically relevant ways across several dimensions: policy issue domain, issue salience, opinion uniformity, opinion gap between more and less privileged residents, and left-wing vs. right-wing framing. This produces a list of 128 total statements (8 domains * 2 salience * 2 uniformity * 2 opinion gap * 2 left-right direction = 128), requiring 25-26 statements per year. This year we have drawn the following 26 statements from the list: 
+
+•	Municipal governments should reallocate a portion of their police budgets to fund social programs and mental health services, even if it means reducing the number of active police officers.
+•	Municipal governments should prioritize hiring more community outreach workers over expanding police forces, as a way to address the root causes of crime.
+•	Municipal governments should reduce funding for immigrant-focused programs and instead prioritize services that benefit all residents equally, regardless of immigration status.
+•	Municipalities should expand funding for language and job training programs targeted at immigrants to help them integrate into the local economy, even if this reduces funding for other municipal services.
+•	Municipalities should focus on improving economic development rather than implementing costly climate change mitigation strategies that could limit business growth, even if it leads to higher emissions.
+•	Municipal governments should ban single-use plastics in all public spaces, even if this creates inconvenience for local businesses and residents.
+•	Municipalities should allow private companies to handle waste management and recycling services to reduce public spending, even if it results in lower environmental standards.
+•	Municipal governments should mandate that all new developments meet strict environmental standards, even if it increases the cost of housing and construction.
+•	Municipal governments should prioritize economic growth and development over strict environmental regulations, even if it results in increased pollution or environmental degradation.
+•	Municipalities should relax environmental regulations to attract businesses, even if it increases pollution in lower-income neighbourhoods.
+•	Municipal governments should reduce funding for bike lanes and focus on road expansion for vehicles, even if it makes the municipality less bike-friendly.
+•	Municipal governments should stop subsidizing public transit fares and instead focus on improving road infrastructure, even if it leads to fewer people using public transportation.
+•	Municipal governments should invest heavily in expanding bike lanes, even if it means reducing the number of lanes for cars on major roads.
+•	Municipalities should prioritize protecting existing neighbourhoods from high-density developments, even if it makes housing less affordable for new residents.
+•	Municipalities should prioritize zoning policies that protect single-family homes, even if it restricts the development of more affordable housing options like duplexes or townhouses.
+•	Municipalities should offer tax breaks and incentives for green businesses, even if it increases taxes for other industries.
+•	Municipalities should require large companies to contribute to local infrastructure and social programs, even if it makes them less likely to set up offices in the area.
+•	Municipalities should require developers to include affordable housing units in new luxury developments, even if it reduces the overall profitability of those projects.
+•	Municipalities should reduce business taxes to stay competitive with other regions, even if it means cutting funding for public infrastructure projects like transit and road repairs.
+•	Municipal governments should increase user fees for public services like garbage collection and parking, rather than raising property taxes across the board.
+•	Municipal governments should raise property taxes on second homes to fund affordable housing projects.
+•	Municipal governments should allocate more resources to reconciliation programs for urban Indigenous communities, even if it means reducing funding for other local services.
+•	Municipal governments should maintain historical statues and monuments, even if some figures had controversial or prejudiced views.
+•	Municipal governments should remove all statues of controversial historical figures, even if it angers some long-term residents.
+•	Municipalities should ensure equal representation of women and minorities on council, even if it requires changing current election rules.
+•	Municipalities should not allocate additional funds for inclusion and diversity programs if it means cutting resources for economic development.
+"
+sample_genpop,Full genpop sample. Each respondent answers eight items from the list above.
+pew_genpop,8
+qual,NA
+qual_budget,NA
+qual_travel,NA
+other_data,NA
+other_budget,NA
+ethics,1
+edi,1

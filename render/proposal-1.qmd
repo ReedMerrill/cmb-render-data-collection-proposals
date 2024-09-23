@@ -41,8 +41,12 @@ cat("**Participating Researchers**")
 
 ```{r researchers resp, results='asis'}
 if (!is.na(data$resp[23])) {
+  if (data$resp[23] == "-99") {
+    cat("Answer left blank.")
+  } else {
   participants <- unlist(str_replace_all(data$resp[23], "\n", "; "))
   cat(participants)
+  }
 } else {
   cat(data$lead)
 }
@@ -50,7 +54,7 @@ if (!is.na(data$resp[23])) {
 
 <!-- submission date -->
 ```{r submission date, results='asis'}
-date <- ymd(as_date(data$resp[3]))
+date <- ymd_hm(data$resp[3])
 day <- as.character(day(date))
 cat(paste0("**Submission Date:** ", format(date, "%B"), " ", day, ", ", format(date, "%Y")))
 ```
@@ -60,7 +64,7 @@ cat(paste0("**Submission Date:** ", format(date, "%B"), " ", day, ", ", format(d
 
 <!-- pillar -->
 ```{r pillar, results='asis'}
-if (!is.na(data$resp[19])) {
+if (data$resp[19] != "-99") {
   pillars <- unlist(str_split(data$resp[19], ","))
   for (i in seq_along(pillars)) {
     pillars[i] <- pillars[i] |>
@@ -210,8 +214,11 @@ if (!is.na(data$resp[30])) {
 ```
 
 ```{r questions_pol resp, results='asis'}
-if (!is.na(data$resp[30])) {
+if (!is.na(data$resp[30]) & data$resp[30] != "-99") {
   cat(data$resp[30])
+} 
+if (!is.na(data$resp[30]) & data$resp[30] == "-99") {
+  cat("*No response.*")
 }
 ```
 
@@ -223,8 +230,11 @@ if (!is.na(data$resp[31])) {
 ```
 
 ```{r sample_pol resp, results='asis'}
-if (!is.na(data$resp[31])) {
+if (!is.na(data$resp[31]) & data$resp[31] != "-99") {
   cat(data$resp[31])
+}
+if (!is.na(data$resp[31]) & data$resp[31] == "-99") {
+  cat("*No response.*")
 }
 ```
 
@@ -236,8 +246,11 @@ if (!is.na(data$resp[32])) {
 ```
 
 ```{r pew_pol resp, results='asis'}
-if (!is.na(data$resp[32])) {
+if (!is.na(data$resp[32]) & data$resp[32] != "-99") {
   cat(data$resp[32])
+} 
+if (!is.na(data$resp[32]) & data$resp[32] == "-99") {
+  cat("*No response.*")
 }
 ```
 
@@ -250,8 +263,11 @@ if (!is.na(data$resp[33])) {
 ```
 
 ```{r questions_genpop resp, results='asis'}
-if (!is.na(data$resp[33])) {
+if (!is.na(data$resp[33]) & data$resp[33] != "-99") {
   cat(data$resp[33])
+}
+if (!is.na(data$resp[33]) & data$resp[33] == "-99") {
+  cat("*No response.*")
 }
 ```
 
@@ -263,8 +279,11 @@ if (!is.na(data$resp[34])) {
 ```
 
 ```{r sample_genpop resp, results='asis'}
-if (!is.na(data$resp[34])) {
+if (!is.na(data$resp[34]) & data$resp[34] != "-99") {
   cat(data$resp[34])
+}
+if (!is.na(data$resp[34]) & data$resp[34] == "-99") {
+  cat("*No response.*")
 }
 ```
 
@@ -276,8 +295,11 @@ if (!is.na(data$resp[35])) {
 ```
 
 ```{r pew_genpop resp, results='asis'}
-if (!is.na(data$resp[35])) {
+if (!is.na(data$resp[35]) & data$resp[35] != "-99") {
   cat(data$resp[35])
+}
+if (!is.na(data$resp[35]) & data$resp[35] == "-99") {
+  cat("*No response.*")
 }
 ```
 
@@ -289,8 +311,11 @@ if (!is.na(data$resp[36])) {
 ```
 
 ```{r qual resp, results='asis'}
-if (!is.na(data$resp[36])) {
+if (!is.na(data$resp[36]) & data$resp[36] != "-99") {
   cat(data$resp[36])
+}
+if (!is.na(data$resp[36]) & data$resp[36] == "-99") {
+  cat("*No response.*")
 }
 ```
 
@@ -302,8 +327,11 @@ if (!is.na(data$resp[37])) {
 ```
 
 ```{r qual_budget resp, results='asis'}
-if (!is.na(data$resp[37])) {
+if (!is.na(data$resp[37]) & data$resp[37] != "-99") {
   cat(data$resp[37])
+}
+if (!is.na(data$resp[37]) & data$resp[37] == "-99") {
+  cat("*No response.*")
 }
 ```
 
@@ -315,8 +343,11 @@ if (!is.na(data$resp[38])) {
 ```
 
 ```{r qual_travel resp, results='asis'}
-if (!is.na(data$resp[38])) {
+if (!is.na(data$resp[38]) & data$resp[38] != "-99") {
   cat(data$resp[38])
+}
+if (!is.na(data$resp[38]) & data$resp[38] == "-99") {
+  cat("*No response.*")
 }
 ```
 
@@ -328,8 +359,11 @@ if (!is.na(data$resp[39])) {
 ```
 
 ```{r other_data resp, results='asis'}
-if (!is.na(data$resp[39])) {
+if (!is.na(data$resp[39]) & data$resp[39] != "-99") {
   cat(data$resp[39])
+}
+if (!is.na(data$resp[39]) & data$resp[39] == "-99") {
+  cat("*No response.*")
 }
 ```
 
@@ -341,27 +375,40 @@ if (!is.na(data$resp[40])) {
 ```
 
 ```{r other_budget resp, results='asis'}
-if (!is.na(data$resp[40])) {
+if (!is.na(data$resp[40]) & data$resp[40] != "-99") {
   cat(data$resp[40])
+} 
+if (!is.na(data$resp[40]) & data$resp[40] == "-99") {
+  cat("*No response.*")
 }
 ```
 
 <!-- ethics -->
-```{r ethics resp, results='asis'}
+```{r, results='asis'}
 if (!is.na(data$resp[41])) {
   cat(desc$heading[40], desc$question[40])
+}
+```
+
+```{r ethics resp, results='asis'}
+if (data$resp[41] != "-99") {
   cat("Yes")
 } else {
-  cat("No")
+  cat("*No response.*")
 }
 ```
 
 <!-- EDI -->
-```{r edi resp, results='asis'}
+```{r, results='asis'}
 if (!is.na(data$resp[42])) {
   cat(desc$heading[41], desc$question[41])
+}
+```
+
+```{r edi resp, results='asis'}
+if (data$resp[42] != "-99") {
   cat("Yes")
 } else {
-  cat("No")
+  cat("*No response.*")
 }
 ```

@@ -1,0 +1,259 @@
+var,resp
+id,7
+StartDate,2024-09-11 6:24
+EndDate,2024-09-11 6:31
+Status,0
+IPAddress,174.7.176.122
+Progress,100
+Duration (in seconds),437
+Finished,1
+RecordedDate,2024-09-11 6:31
+ResponseId,R_3H0j4jVx5hGUzY7
+RecipientLastName,NA
+RecipientFirstName,NA
+RecipientEmail,NA
+ExternalReference,NA
+LocationLatitude,49.2825
+LocationLongitude,-123.1291
+DistributionChannel,anonymous
+UserLanguage,EN
+pillar,2
+questions,1
+dc,"1,2"
+lead,"Sophie Borwein, Assistant Professor, UBC, sophie.borwein@ubc.ca"
+participants,"Beatrice Magistro, Postdoctoral Fellow, Caltech, magistro@caltech.edu ; Peter Loewen, Professor, Cornell, pjl245@cornell.edu"
+description,"Since the 1980s, the widespread adoption of computers and machines has produced substantial growth, making economies better off, but benefits have been highly uneven, with technological adoption increasing both inter-personal and inter-regional inequality. Inter-personal inequality increased because new technologies made highly-educated workers more productive, while simultaneously displacing work available to less-educated workers, without generating offsetting tasks elsewhere in the economy (Autor et al., 2022; Acemoglu and Restrepo, 2019). Inter-regional inequality increased because technological development was concentrated among a few “superstar” metropolitan areas with highly-educated populations (Bathelt et al. 2024; Kemeny & Storper, 2020). These changes have caused and coincided with large-scale political changes—notably, the rise of populist and radical-right politics—upending not only economic systems but also political ones. 
+
+
+
+The integration of new artificial intelligence (AI) technologies into political and economic systems could be even more destabilizing. Unlike earlier automation, AI can perform a much wider range of cognitive tasks, potentially substituting for the expertise of a growing number of high-skilled workers. Yet to the extent that AI is leveraged to improve problem-solving and decision-making processes, it could also complement a broader range of workers across skill levels. AI could further displace workers, but simultaneously create new work within the same sector or elsewhere in the economy.
+
+
+
+Which of these, or other, potential outcomes is realized will crucially depend on the policy frameworks governments develop to oversee AI. There is an emerging consensus that new developments in AI need not exacerbate inter-personal and inter-regional inequalities—and could in fact potentially even diminish them (Autor 2024)—but only if strategically harnessed by local, state, and national governments (Acemoglu & Johnson, 2023; Muro et al. 2023). Policymakers highlight that—alongside national and subnational governments—local policymakers will be crucial to determining whether AI further concentrates economic development in superstar global cities like San Francisco or Toronto, or whether AI’s benefits for economic growth are shared more widely across more regions (Muro et al., 2023). Some cities, such as Philadelphia, are already attempting to position themselves to capture AI’s benefits by investing in research and local innovation ecosystems, and leveraging university partnerships. However, many other communities have been less receptive (Muro et al., 2023).
+
+
+
+While institutions and interests are no doubt crucial for understanding the circumstances under which new technologies are integrated into communities, our interest in this research proposal is on the micro-level ideas political actors hold about technology’s economic effects, which we contend can influence policy separate from the former two factors. We know from the trade literature, for example, that preferences toward trade depend not only on the institutions or material interests of core constituencies, but also on fundamental economic ideas, such as the concept of comparative advantage, that structure how individuals think about trade (Hainmueller & Hiscox, 2006). Building on these insights, our proposed research therefore has two goals. First, we propose to survey local politicians, to understand how they theorize AI’s benefits and costs for economies. In studying political actors’ ideas about AI, we draw on insights from “folk economics”, an evolutionary theory of cognition that highlights the importance of people’s “cause-and-effect” theories—or mental models—about how the economy operates (Boyer & Petersen 2018; Caplan 2011; Hainmueller & Hiscox 2006; Rubin 2003). These theories, though imprecise in a scientific sense, help people rationalize the causal processes that lay beneath the observed world, and draw inferences about the consequences of their decisions (Gelman & Legare 2011). An underlying premise of this literature is that the theories people hold about the economy often differ substantially from the economic models advanced by economists and other experts (Caplan 2011). For example, while economists generally model technology as a key driver of productivity gains and economic growth (Aghion et al. 2022; Autor & Dorn 2013), politicians may instead conceptualize technology as only substituting for labour, with each job replaced by technology constituting one less job for human workers. These causal theories are important to understand on their own, but we anticipate that they are also important because they will shape politicians’ subsequent policy choices in the AI space. 
+
+
+
+Our second proposed research goal is to analyze how politicians’ mental models of technology’s economic effects compare with their constituents. Although we have yet to examine politicians’ mental models of technology, some of our initial research suggests that the broader public often theorizes technology as substituting, not complementing, labour (Borwein et al. 2024). This raises the question: how similar are the public’s perceptions of technology to those of political elites? On the one hand, politicians are often assumed to be more purposive and strategic in their decision-making than the public. Thus, we might anticipate that elites reason about technology’s economic effects more dynamically, using longer-time horizons. On the other hand, research shows they often reason in ways that differ little from the public (Sheffer et al. 2018). In comparing politicians’ and the public’s mental models of AI, we seek to understand, first, if the two groups draw on similar underlying models of the economy and technology in forming policy preferences, or if politicians more often align with orthodox views of technology held by economists and similar experts. Second, we seek to understand if politicians’ contexts shape how they reason about technological change. To the extent there is a gap between politicians and publics, politicians will be conflicted in balancing democratic responsiveness with informed decision-making toward AI. 
+
+"
+contribution,"Despite the scale of the potential economic and political disruption associated with technological change, we know very little about the determinants of political behavior toward new technologies. To the extent that research has looked at the politics of technological change at all, it has focused almost exclusively on the demand side, examining the public’s attitudes (Anelli et al. 2021; Im et al. 2019; Kurer 2020). To our knowledge, our proposed research would be the first to give sustained attention to the supply-side politics of workplace technological change—that is, the considerations that shape political elites’ decision-making toward automation and AI. 
+
+
+
+From a practitioner perspective, this research will advance understanding of how politicians and policymakers can attain buy-in from citizens to harness AI’s economic benefits, while also cushioning workers against its distributional effects. Research shows pre-emptive active labour market and compensation policies could have averted reactionary politics among some voters negatively affected by previous economic shocks such as trade liberalization (Halikiopoulou & Vlandas 2016); it is critical that policymakers learn from past mistakes as technological change intensifies. 
+
+"
+audience,"
+
+This research is designed to provide insight for a broad audience, including the academic community, national and sub-national governments, the public, and policy practitioners. This research will benefit the academic community, as it will fill in gaps in our understanding of how economic shocks like technological change are navigated by political actors. This research will benefit governments and practitioners, as it will provide insight into the public’s concerns around technology as well as their policy preferences, which can be used to craft and communicate better policy. Finally, the public will benefit from enriched debate about the potential economic benefits and distributional costs of new AI technologies. 
+
+"
+outputs,"This project will produce a minimum of one journal article, to be submitted to a high-impact academic journal. We have had past success publishing our research on automation and AI in venues such as Political Behavior, PSRM, West European Politics, and Socio-Economic Review."
+outputs_kmb,"We plan to write an op-ed based on this work, given the timeliness of the topic, and current interest."
+timeline,"Our proposed timeline is as follows:
+
+
+
+-	November/December 2024: apply for REB approval from the University of British Columbia and the California Institute of Technology.
+
+-	Winter/Spring 2025: collect politician and general population survey data. 
+
+-	May-June 2025: analyze data.
+
+-	July-August 2025: draft paper. 
+
+-	September 2025: present research paper at the American Political Sciences Association Annual Conference in Vancouver.
+
+-	September-October 2025: submit paper to journal.
+
+"
+questions_pol,"Question Set I:
+
+
+
+Preamble: 
+
+
+
+Artificial Intelligence (AI) refers to the development of machines and software that can perform tasks typically requiring human intelligence, such as learning, problem-solving, perception, and decision-making. 
+
+
+
+ChatGPT is one example of a popular AI tool. ChatGPT lets users understand and generate human-like text and images, making it useful for tasks like answering questions, writing summaries, drafting emails, and even having conversations. 
+
+
+
+Consider a company that is thinking about having its employees use new AI tools like ChatGPT at work.  Some of the daily tasks they think workers can use these technologies for include report writing and editing, analyzing company data to identify trends, and communicating with customers in real-time.
+
+
+
+Based on the information you just read, we’re interested in knowing your thoughts about what the effects of this new technology might be:
+
+
+
+Do you think that... ?
+
+
+
+1. Introducing the new technology will increase or decrease the quality of the services/products the company provides? [increase / no change / decrease / don’t know]
+
+
+
+2. The price consumers pay for the services/products the company provides will increase or decrease? [increase / no change / decrease / don’t know
+
+
+
+3. Demand for the services/products will increase or decrease? [increase / no change / decrease / don’t know]
+
+
+
+4. The company will increase or decrease its profits? [increase / no change / decrease / don’t know]
+
+
+
+5. AI tools like ChatGPT complement the workers’ skills (makes them better at their jobs) or substitute the worker’s skills (replaces them in their jobs) [complement / neither / substitute / don’t know]
+
+
+
+6. Wages for some workers will increase or decrease? [increase / no change / decrease / don’t know]
+
+
+
+7. AI tools like ChatGPT will increase or decrease the performance of lower-performing workers relative to top-performing workers [increase / no change / decrease / don’t know]
+
+
+
+8. The company will increase or decrease hiring of new workers? [increase / no change / decrease / don’t know]
+
+
+
+9. Even if some jobs are lost in one company, AI tools like ChatGPT will result in an overall increase or decrease in new jobs in other parts of the economy. [increase / no change / decrease]
+
+
+
+
+
+Question Set II:
+
+
+
+Imagine you have the opportunity to craft a policy plan to help with the challenges of technological change, including new artificial intelligence technologies. You can choose no more than three of the policies from the list below. If it were up to you, which three or fewer policies would you like to see implemented?
+
+
+
+Keep in mind that you can choose to implement anywhere between zero and two policies, but all policies not chosen will not be implemented. Please also keep in mind that implementing some of these policies could result in government increasing taxes to fund them:
+
+
+
+1.	Expand social spending, such as unemployment benefits, to support workers facing potential job loss
+
+2.	Invest in education and other programs to re-skill workers for new jobs
+
+3.	Reduce the number of immigrants entering your country for work
+
+4.	Restrict international competition by increasing trade barriers on goods and services to your country
+
+5.	Directly tax companies that replace workers with machines through an automation tax.
+
+6.	Introduce laws to regulate how AI can be used, and that set safety and transparency standards
+
+
+
+"
+sample_pol,"We are interested in surveying as many politicians as possible from across municipalities, to see if mental models vary based on the type of municipality of the politician."
+pew_pol,The first set of questions can be answered as a battery: (9 * 0.67) = 6.03 Pew points. The second set of questions is similar to a check-all question: 2 Pew points. Total Pew points: 8
+questions_genpop,"Artificial Intelligence (AI) refers to the development of machines and software that can perform tasks typically requiring human intelligence, such as learning, problem-solving, perception, and decision-making. 
+
+
+
+ChatGPT is one example of a popular AI tool. ChatGPT lets users understand and generate human-like text and images, making it useful for tasks like answering questions, writing summaries, drafting emails, and even having conversations. 
+
+
+
+Consider a company that is thinking about having its employees use new AI tools like ChatGPT at work.  Some of the daily tasks they think workers can use these technologies for include report writing and editing, analyzing company data to identify trends, and communicating with customers in real-time.
+
+
+
+Based on the information you just read, we’re interested in knowing your thoughts about what the effects of this new technology might be:
+
+
+
+Do you think that... ?
+
+
+
+1. Introducing the new technology will increase or decrease the quality of the services/products the company provides? [increase / no change / decrease / don’t know]
+
+
+
+2. The price consumers pay for the services/products the company provides will increase or decrease? [increase / no change / decrease / don’t know
+
+
+
+3. Demand for the services/products will increase or decrease? [increase / no change / decrease / don’t know]
+
+
+
+4. The company will increase or decrease its profits? [increase / no change / decrease / don’t know]
+
+
+
+5. AI tools like ChatGPT complement the workers’ skills (makes them better at their jobs) or substitute the worker’s skills (replaces them in their jobs) [complement / neither / substitute / don’t know]
+
+
+
+6. Wages for some workers will increase or decrease? [increase / no change / decrease / don’t know]
+
+
+
+7. AI tools like ChatGPT will increase or decrease the performance of lower-performing workers relative to top-performing workers [increase / no change / decrease / don’t know]
+
+
+
+8. The company will increase or decrease hiring of new workers? [increase / no change / decrease / don’t know]
+
+
+
+9. Even if some jobs are lost in one company, AI tools like ChatGPT will result in an overall increase or decrease in new jobs in other parts of the economy. [increase / no change / decrease]
+
+
+
+Question Set II:
+
+
+
+Imagine you have the opportunity to craft a policy plan to help with the challenges of technological change, including new artificial intelligence technologies. You can choose no more than three of the policies from the list below. If it were up to you, which three or fewer policies would you like to see implemented?
+
+
+
+Keep in mind that you can choose to implement anywhere between zero and two policies, but all policies not chosen will not be implemented. Please also keep in mind that implementing some of these policies could result in government increasing taxes to fund them:
+
+
+
+1.	Expand social spending, such as unemployment benefits, to support workers facing potential job loss
+
+2.	Invest in education and other programs to re-skill workers for new jobs
+
+3.	Reduce the number of immigrants entering your country for work
+
+4.	Restrict international competition by increasing trade barriers on goods and services to your country
+
+5.	Directly tax companies that replace workers with machines through an automation tax.
+
+6.	Introduce laws to regulate how AI can be used, and that set safety and transparency standards
+
+"
+sample_genpop,"Ideally, we would have respondents in similar municipalities to the politicians."
+pew_genpop,8
+qual,NA
+qual_budget,NA
+qual_travel,NA
+other_data,NA
+other_budget,NA
+ethics,1
+edi,1

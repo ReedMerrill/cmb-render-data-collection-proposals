@@ -15,7 +15,7 @@ library(stringr)
 library(readtext)
 library(here)
 path <- here("data/processed-responses/")
-target <- "PLACE-HOLDER"
+target <- "proposal-12.csv"
 data <- read_csv(paste0(path, target))
 desc <- read_csv(here("data/headings-and-descs.csv"))
 # add markdown formatting to each question and heading in the descriptions data (used to generate headings and question wording for the doc)
@@ -61,11 +61,6 @@ cat(paste0("**Submission Date:** ", format(date, "%B"), " ", day, ", ", format(d
 
 <!-- ID number -->
 **Proposal #:** `r cmb_proposal_id`
-
-```{r render date, results='asis'}
-gen_date <- as_date(Sys.Date())
-cat("file version:" gen_date)
-```
 
 <!-- pillar -->
 ```{r pillar, results='asis'}

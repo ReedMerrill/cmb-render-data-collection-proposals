@@ -1,0 +1,192 @@
+var,resp
+id,20
+StartDate,2024-09-13 14:55
+EndDate,2024-09-13 15:57
+Status,0
+IPAddress,24.78.129.47
+Progress,100
+Duration (in seconds),3726
+Finished,1
+RecordedDate,2024-09-13 15:57
+ResponseId,R_32JIfYOGZe8lQpi
+RecipientLastName,NA
+RecipientFirstName,NA
+RecipientEmail,NA
+ExternalReference,NA
+LocationLatitude,49.8538
+LocationLongitude,-97.2903
+DistributionChannel,anonymous
+UserLanguage,EN
+pillar,4
+questions,1
+dc,"1,2"
+lead,"Aaron Moore, Professor, aa.moore@uwinnipeg.ca, Department of Political Science, University of Winnipeg"
+participants,"Martin Horak, Associate Professor, mhorak@uwo.ca, Department of Political Science, University of Western Ontario
+Orly Linovski, Associate Professor, orly.linovski@umanitona.ca, Department of City Planning, University of Manitoba"
+description,"Municipal governments in Canada’s metropolitan areas have successfully lobbied for significant provincial and federal investment into the development and expansion of higher orders of public transit. While there is existing research into the motivations beyond municipal support for higher orders of transit, there is limited research into how well municipal officials’ transit priorities align with the public’s priorities. Furthermore, there is limited research examining whether such investments induce individuals to switch from cars to transit, which is one of the main stated goals of higher-order transit projects in Canada, given that as of 2022, 83.9% of commuting trips in the country were made by car (Statistics Canada 2022), 
+
+This project seeks to address this gap in the academic literature. The project will also provide policymakers with important information regarding public support for transit and willingness to switch. In absence of such understanding, governments may be investing in expensive infrastructure that will do little to increase ridership or provide better service for residents that rely on transit. 
+
+This project addresses two research questions:
+1.	How well do elected officials’ transit investment priorities align with the public’s priorities?
+2.	Under what circumstances would individuals who commute by car be willing to switch to transit?
+"
+contribution,"As far as I am aware, this is the first project of its kind to compare the alignment of municipal politicians’ transit priorities with those of the public. Beyond investigating the alignment of priorities, it will also investigate whether such transit investments would induce car commuters to switch to transit. There is a growing body of research that questions whether investments in higher orders of transit can induce car commuters to switch. If municipal politicians are primarily supporting transit investment in the hope of converting drivers to transit riders, this project will test the logic of such investment."
+audience,"Policy decision-makers at all levels of government are the primary audience for this proposal. The findings should help elected officials and staff to make informed decisions about future transit funding. In addition, our findings should be of interest to both academics and the public. For the former, the proposal will bolster our understanding of municipal elected officials understanding of an alignment with public policy priorities, while the latter may be interested in knowing how well their elected representatives represent their policy interests, and the extent that their fellow residents are willing to adjust their behaviour in response to government spending."
+outputs,"We anticipate producing at least three publications: an academic article, a policy report intended for public consumption, and an op-ed. We would submit the journal manuscript to Urban Studies. We will present our findings in a public venue, such as the IMFG’s lectures series, and at one academic conference (e.g. CPSA)."
+outputs_kmb,We intend to produce both non-academic and academic publications.
+timeline,"Data collection: January-March 2025 
+Data analysis: April – July 2025
+Writing and submission of academic paper: September – December 2025
+Writing of policy report and op-ed: January – March 2026"
+questions_pol,"The following questions are tentative and subject to change though we intend to work within our estimated pew points.
+
+Public Survey:
+
+1.	Which of the following terms best describes the kind of community in which you live? (response categories: city, suburb, small town, rural area). [Note to Jack, I am including this here as a reminder to add the question to the core survey questions as you per your suggestion, AM]
+
+2.	Do you commute regularly to work? (response categories: yes, no) [1 point] Respondents who answer ‘no’ will be piped around the following questions to the policy attitudes section; the rest will continue onto question 3.
+
+3.	How to you usually commute to work? (Note: if you use multiple modes, such as park and ride, please select the item that represents the bulk of your commute)): [1 point]
+•	Driving (car, truck, motorcycle, scooter, etc.)
+•	Carpooling (passenger in personal vehicle)
+•	Public transit
+•	Bike
+•	Walk
+•	Other
+
+4.	[Mode choice conjoint experiment: Respondents will be presented with a pair of hypothetical transit service profiles, preceded by introductory text. The example is one potential pair among XXX possible pairings]: 
+
+Consider the following two options for transit service between your home and your workplace:
+[Here is one example of what a respondent might see:]
+OPTION A                                                                      OPTION B
+bus	                                                                               light rail (LRT)
+stops 250m from your residence	                               stops 500m from your residence
+transit comes every 15-20 minutes	                                transit comes every 15-20 minutes
+saves 15 minutes compared to your current commute	takes 5 minutes longer than your current commute
+costs the same as driving	                                        costs $1.00 less per trip than driving
+no transfer between start and destination	               1 transfer between start and destination
+
+[Below the pair of profiles, respondents will answer the following questions]:
+If you had to choose between using Option A or Option B to commute to work, which would you prefer? (response categories: Option A, Options B) [pipe response into the next question]
+
+Respondents who answer ‘personal vehicle’ to question 3 will continue to the following question. Others will be piped around it.
+
+If Option [A or B, depending on response to previous question] was available to you, how likely is it that you would switch from commuting by vehicle to using transit? (response categories: very likely, somewhat likely, somewhat unlikely, very unlikely)
+
+[We would like to show each respondent two pairs of profiles. We estimate 2 Pew points per pair, so 4 points in total].
+
+Attributes and levels for conjoint experiment (draft, subject to revision):
+
+ATTRIBUTES       	                     LEVELS
+transit mode	                             Traditional bus service, bus rapid transit (BRT), light rail transit (LRT)  
+
+commute time	                             saves 15 minutes compared to your current commute; saves 5 minutes compared to your current commute; takes the same time as your current commute; takes 5 minutes longer than your current commute; takes 15 minutes longer than your current commute
+
+frequency	                             transit comes every 15-20 minutes; transit comes every 5-7 minutes
+
+cost	                                             costs $1.00 more per trip than driving; costs 50 cents more per trip than driving; costs the same as driving; costs 50 cents less per trip than driving; costs $1.00 less per trip than driving 
+
+accessibility	                             stops 100 metres from your residence; stops 250 metres from your residence; stops 500 metres from your residence
+  
+transfers	                                     no transfer between start and destination, 1 transfer, 2 transfer  s
+
+5.	Governments should invest more money in improving public transit service, even if it means a slight increase in taxes. (response categories: strongly agree, slightly agree, slightly disagree, strongly disagree, don’t know) [1 point]
+
+6.	If governments invest more money into transit, which levels of government should provide most of the funding? (pick one option) (response categories: only municipalities, mostly municipalities, 50-50 split between municipalities and senior government (province and federal), mostly senior government, only senior government) [1 point]
+
+7.	If governments invest more money into transit, where should that investment go? Please click to choose your preference in each row. [2 points]
+ROW 1: entirely to urban areas	mostly to urban areas	equally to urban and suburban areas	mostly to suburban areas	only to suburban areas
+
+ROW 2: entirely to areas with high existing transit usage	mostly to areas with existing high transit usage	equally to areas with existing high and low transit usage	mostly to areas with existing low transit usage	entirely to areas with high existing transit usage
+
+ROW 3: entirely to low-income areas	mostly to low-income areas	equally to low and middle-income areas	mostly to middle-income areas	entirely to middle-income areas
+
+8.	If governments invest more money into transit, what kind of transit service should they prioritize in your community? (pick one option) (response categories: local bus, bus rapid transit, suburban commuter rail, subway or elevated rail (eg., SkyTrain), light rail transit (LRT) / streetcar) [1 point]
+
+Politician Survey:  
+
+1.	Governments should invest more money in improving public transit service, even if it means a slight increase in taxes. (response categories: strongly agree, slightly agree, slightly disagree, strongly disagree, don’t know) [1 point]
+
+2.	If governments invest more money into transit, which levels of government should provide most of the funding? (pick one option) (response categories: only municipalities, mostly municipalities, 50-50 split between municipalities and senior government (province and federal), mostly senior government, only senior government) [1 point]
+
+3.	If governments invest more money into transit, where should this new investment go? Please choose your preferred option in each row. [2 points]
+ROW 1: entirely to urban areas	mostly to urban areas	equally to urban and suburban areas	mostly to suburban areas	only to suburban areas
+
+ROW 2: entirely to areas with high existing transit usage	mostly to areas with existing high transit usage	equally to areas with existing high and low transit usage	mostly to areas with existing low transit usage	entirely to areas with high existing transit usage
+
+ROW 3: entirely to low-income areas	mostly to low-income areas	equally to low and middle-income areas	mostly to middle-income areas	entirely to middle-income areas
+
+4.	If governments invest more money intro transit, what type of transit should they prioritize in your community? (pick one option) (response categories: local bus, bus rapid transit, suburban commuter rail, subway or elevated rail (eg., SkyTrain), light rail transit (LRT) / streetcar) [1 point]
+"
+sample_pol,"We will be using the full sample from both the municipal politician and general public surveys. We will need a sizable sample of respondents from urban areas, the suburban, and ""exurbs"" (e.g. municipalities along the urban/rural fringe)."
+pew_pol,General Public Survey: 11 Pew Points; Politician Survey: 5 Pew Points
+questions_genpop,"The following questions are tentative and subject to change though we intend to work within our estimated pew points.
+Public Survey:
+1.	Which of the following terms best describes the kind of community in which you live? (response categories: city, suburb, small town, rural area). [Note to Jack, I am including this here as a reminder to add the question to the core survey questions as you per your suggestion, AM]
+
+2.	Do you commute regularly to work? (response categories: yes, no) [1 point] Respondents who answer ‘no’ will be piped around the following questions to the policy attitudes section; the rest will continue onto question 3.
+
+3.	How to you usually commute to work? (Note: if you use multiple modes, such as park and ride, please select the item that represents the bulk of your commute)): [1 point]
+•	Driving (car, truck, motorcycle, scooter, etc.)
+•	Carpooling (passenger in personal vehicle)
+•	Public transit
+•	Bike
+•	Walk
+•	Other
+
+4.	[Mode choice conjoint experiment: Respondents will be presented with a pair of hypothetical transit service profiles, preceded by introductory text. The example is one potential pair among XXX possible pairings]: 
+
+Consider the following two options for transit service between your home and your workplace:
+[Here is one example of what a respondent might see:]
+OPTION A	                                                                OPTION B
+bus	                                                                                light rail (LRT)
+stops 250m from your residence	                                stops 500m from your residence
+transit comes every 15-20 minutes	                                transit comes every 15-20 minutes
+saves 15 minutes compared to your current commute	takes 5 minutes longer than your current commute
+costs the same as driving	                                        costs $1.00 less per trip than driving
+no transfer between start and destination	                1 transfer between start and destination
+
+[Below the pair of profiles, respondents will answer the following questions]:
+If you had to choose between using Option A or Option B to commute to work, which would you prefer? (response categories: Option A, Options B) [pipe response into the next question]
+
+Respondents who answer ‘personal vehicle’ to question 3 will continue to the following question. Others will be piped around it.
+
+If Option [A or B, depending on response to previous question] was available to you, how likely is it that you would switch from commuting by vehicle to using transit? (response categories: very likely, somewhat likely, somewhat unlikely, very unlikely)
+
+[We would like to show each respondent two pairs of profiles. We estimate 2 Pew points per pair, so 4 points in total].
+
+Attributes and levels for conjoint experiment (draft, subject to revision):
+ATTRIBUTES: LEVELS
+transit mode: Traditional bus service, bus rapid transit (BRT), light rail transit (LRT)
+  
+commute time: saves 15 minutes compared to your current commute; saves 5 minutes compared to your current commute; takes the same time as your current commute; takes 5 minutes longer than your current commute; takes 15 minutes longer than your current commute
+
+frequency: transit comes every 15-20 minutes; transit comes every 5-7 minutes
+
+cost: costs $1.00 more per trip than driving; costs 50 cents more per trip than driving; costs the same as driving; costs 50 cents less per trip than driving; costs $1.00 less per trip than driving
+
+accessibility: stops 100 metres from your residence; stops 250 metres from your residence; stops 500 metres from your residence  
+
+transfers:	no transfer between start and destination, 1 transfer, 2 transfers
+
+5.	Governments should invest more money in improving public transit service, even if it means a slight increase in taxes. (response categories: strongly agree, slightly agree, slightly disagree, strongly disagree, don’t know) [1 point]
+
+6.	If governments invest more money into transit, which levels of government should provide most of the funding? (pick one option) (response categories: only municipalities, mostly municipalities, 50-50 split between municipalities and senior government (province and federal), mostly senior government, only senior government) [1 point]
+
+7.	If governments invest more money into transit, where should that investment go? Please click to choose your preference in each row. [2 points]
+ROW 1: entirely to urban areas	mostly to urban areas	equally to urban and suburban areas	mostly to suburban areas	only to suburban areas
+ROW 2: entirely to areas with high existing transit usage	mostly to areas with existing high transit usage	equally to areas with existing high and low transit usage	mostly to areas with existing low transit usage	entirely to areas with high existing transit usage
+ROW 3: entirely to low-income areas	mostly to low-income areas	equally to low and middle-income areas	mostly to middle-income areas	entirely to middle-income areas
+
+8.	If governments invest more money into transit, what kind of transit service should they prioritize in your community? (pick one option) (response categories: local bus, bus rapid transit, suburban commuter rail, subway or elevated rail (eg., SkyTrain), light rail transit (LRT) / streetcar) [1 point]
+"
+sample_genpop,Same as politician survey
+pew_genpop,11
+qual,NA
+qual_budget,NA
+qual_travel,NA
+other_data,NA
+other_budget,NA
+ethics,1
+edi,1

@@ -1,0 +1,83 @@
+var,resp
+id,22
+StartDate,2024-09-13 18:18
+EndDate,2024-09-13 18:26
+Status,0
+IPAddress,104.28.133.23
+Progress,100
+Duration (in seconds),494
+Finished,1
+RecordedDate,2024-09-13 18:26
+ResponseId,R_6RyXBFpNzVukbIZ
+RecipientLastName,NA
+RecipientFirstName,NA
+RecipientEmail,NA
+ExternalReference,NA
+LocationLatitude,43.6426
+LocationLongitude,-79.4002
+DistributionChannel,anonymous
+UserLanguage,EN
+pillar,3
+questions,1
+dc,"1,2,4"
+lead,"Gabe Eidelman (UofT), g.eidelman@utoronto.ca"
+participants,"Matt Pelletier (FCM)
+Meghan Joy (Concordia)
+Alison Smith (UofT)
+Marc-Antoine Rancourt (UofT)"
+description,"This project builds on an existing series of policy reports recently published by the University of Toronto’s Institute on Municipal Finance and Governance, which brings together academics and policy practitioners to consider the current and future role of municipalities in the Canadian federation across eleven policy domains: housing, economic development, climate change, public health, policing, transportation, long-term care, child care, immigration, mental health and addictions, and Indigenous governance. The “Who Does What” series highlights both the growing importance of municipalities in areas once considered beyond the concerns of local government (e.g., climate change, immigration), as well as increasing overlap between municipal, provincial, and federal government responsibilities, which can result in poor coordination or blurred accountability. 
+
+We propose a short battery of questions within the CMB survey that gauges not “who does what,” but rather “who should do what”, by asking local leaders which order of government they believe should take the lead role in the eleven topic areas covered by the series. We would then compare these responses to public opinion on the same questions, to measure whether municipal preferences meet or contradict public expectations. If feasible, we would also wish to add a third set of responses from a parallel survey of federal and provincial politicians."
+contribution,"Comparing the responses of political leaders and the general public regarding the role and responsibilities of municipalities, and the division of authority and responsibility between different orders of government more generally, could help identify certain biases, perceptions, and expectations among elite vs. the citizenry. For example, if local political leaders believe that a given policy problem should be the responsibility of “senior” orders of government, but their constituents believe that responsibility should fall on their local government, then this misalignment could provide a partial explanation for declining trust and engagement in government. It may also illuminate questions of democratic legitimacy (which order of government can legitimately claim to lead on a given issue?) as well as democratic accountability (which order of government can and should citizens hold accountable if services or policy outcomes do not meet public expectations?). By cross-referencing responses with the CMB’s core question set, one could discover potential variations in political vs. public preferences along geographic (postcode), demographic (gender, yob, educ), and ideological (self_ideo) dimensions."
+audience,"We believe our findings would appeal to multiple audiences. First, to scholars of federalism and intergovernmental relations, who would gain empirical evidence that may help explain why, for example, some municipalities are granted a “seat” at certain intergovernmental tables, while others in other jurisdictions struggle to have their voices heard. Local elected officials would have an interest in learning whether their colleagues in other municipalities are demanding a greater role in certain policy areas. And the general public would benefit from knowing whether their local (and potentially provincial and federal) representatives are “listening” to their preferences about who should be in charge of coming up with solutions to policy problems important to them."
+outputs,"Findings would be included in the final report of the Who Does What series, which will summarize key insights raised by contributors across all eleven publications, and discuss the ramifications of elite vs. public (mis)alignment about the role of municipalities in the Canadian federation."
+outputs_kmb,"IMFG papers are generally geared toward policy practitioners, and are released alongside one-page explainers and occasional video interviews with report authors. For this project, the project team would work with the CMB’s knowledge dissemination RA to draft accompanying blog posts and op-eds to explore the implications of our findings."
+timeline,"Responses would be collected in Winter 2025, as per standard CMB survey schedule. The IMFG report would be produced/published in Spring 2025."
+questions_pol,"Minimal version: Would focus strictly on questions of jurisdiction/authority/responsibility. For example, we could ask: “In your opinion, which order of government should have primary authority and responsibility to decide policy or provide services related to:”
+Response options: (a) local government (b) provincial government (c) federal government (d) responsibility should be shared equally
+Issue Areas:
+1. Housing
+2. Economic Development
+3. Climate Policy
+4. Public health
+5. Policing
+6. Transportation
+7. Long-term Care
+8. Child Care
+9. Immigration
+10. Mental Health and Addictions
+11. Indigenous Reconciliation
+
+Maximal version: Would ask respondents to specify a preferred role for each order of government (setting policy, funding services, or delivering services) in each policy area. For example, we could ask: “What should be the primary role of the [federal/provincial/municipal] government with regard to the following policy areas?” (repeating for each order of government)
+Response options: (a) no strong preference (b) set policy (c) fund services (d) deliver services
+Issue Areas:
+1. Housing
+2. Economic Development
+3. Climate Policy
+4. Public health
+5. Policing
+6. Transportation
+7. Long-term Care
+8. Child Care
+9. Immigration
+10. Mental Health and Addictions
+11. Indigenous Reconciliation
+
+"
+sample_pol,"Nation-wide coverage is important to pick up cross-province variation. Though, only municipalities with pop. >10K, as very small municipalities do not provide many of the services of analytical interest.
+"
+pew_pol,Minimal version: 11 x 0.67 pts (battery) = 7.37 Pew Points. Maximal version: 11 x 0.67 (battery) x 3 orders of government = 22.11 Pew Points
+questions_genpop,"Identical to options noted above, to enable easy apples-to-apples comparison.
+"
+sample_genpop,"Same as above
+"
+pew_genpop,Same as above.
+qual,NA
+qual_budget,NA
+qual_travel,NA
+other_data,"Ideally, we would field a parallel survey of federal and provincial politicians asking the same questions, to identify (mis)matched responses. For example, if most local politicians suggest housing should be primarily a federal responsibility, but federal/provincial politicians believe it should be primarily a local responsibility, this could help explain why intergovernmental cooperation on housing has been so difficult to achieve. Similarly, if politicians’ preferences are particularly pronounced, but general public opinion is not, then it could help explain general apathy and discontent about government responsiveness and effectiveness at all levels.
+"
+other_budget,"If limited to municipal and public opinion survey, no cost above existing RA allocation for U of T (though any additional support is welcome). If fielding federal/provincial politician survey, costs would rise (exact cost unknown). Though it seems reasonable to expect that battery questions could be added to another pre-planned/pre-existing survey project, to minimize costs.
+"
+ethics,1
+edi,1

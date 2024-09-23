@@ -1,0 +1,221 @@
+var,resp
+id,5
+StartDate,2024-09-09 7:03
+EndDate,2024-09-09 7:18
+Status,0
+IPAddress,129.100.142.229
+Progress,100
+Duration (in seconds),887
+Finished,1
+RecordedDate,2024-09-09 7:18
+ResponseId,R_52WgHZ35bzfN0dJ
+RecipientLastName,NA
+RecipientFirstName,NA
+RecipientEmail,NA
+ExternalReference,NA
+LocationLatitude,43.0147
+LocationLongitude,-81.3049
+DistributionChannel,anonymous
+UserLanguage,EN
+pillar,4
+questions,3
+dc,2
+lead,"Martin Horak, Associate Professor of Political Science, mhorak@uwo.ca, Western University"
+participants,"Jack Lucas, Professor of Political Science, University of Calgary"
+description,"Recent research has argued that Canadian municipal politics and municipal policy attitudes are strongly structured by left-right ideology. Yet many local policy issues also create “strange bedfellows” – coalitions in which local residents ally with their neighbours across ideological lines to oppose local developments (which some may support in the abstract but oppose locally) or support new infrastructure and services (which some might oppose in the abstract but support locally). When municipal policy initiatives are spatially divisible – ie, they can be targeted towards individual properties or specific neighbourhoods – residents have an interest in maximizing the allocation of perceived ‘goods’ (‘desirable’ amenities, services, and property uses from their perspective) and minimizing the allocation of perceived ‘bads’ (undesirable amenities, services and uses). These allocational interests may, and in some cases clearly do, moderate the ideologically-informed policy attitudes of residents when it comes to neighbourhood-level allocational policy decisions. 
+
+Our goal in this research is to investigate how allocational interests moderate the ideological structure of public attitudes towards municipal policy issues. We are calling these ‘allocational effects’ on policy attitudes. Specifically, we are interested in exploring: 1. Whether and how the strength allocational effects varies by issue area; 2. Whether allocational effects are similar for allocational ‘goods’ and ‘bads’; and 3. Whether allocational effects operate similarly or differently for individuals who identify as right-wing and left-wing. Tentative hypotheses, derived in part from findings in existing literature, include the following: 1. The strength of allocational effects will vary with issue salience; 2. Allocational effects will be stronger for perceived ‘bads’ than for perceived ‘goods’; 3. Allocational effects will be ideologically structured – effects for left-wing individuals will be stronger in the case of perceived ‘bads’; effects for right-wing individuals will be stronger in the case of perceived ‘goods’. 
+
+Taking advantage of the large sample size in the public survey, our method involves a survey experiment with topic sampling (Clifford and Rainey 2024, Clifford et al. 2024). We have generated 40   pairs of issue statements on a range of spatially municipal policy issues, from likely neighbourhood ‘goods’ to likely neighbourhood ‘bads’. In each case, we vary the framing of the issue statement between a general framing and a neighbourhood-specific framing (see below). Each respondent will answer six issue questions  , randomly assigned. In order to avoid spillover effects, any one respondent will receive only generally-framed or only neighborhood-framed statements. Given the different scope of municipal government in small communities, as well as differences in the logic of spatial allocation in rural and small-town contexts, we will filter out respondents who live in small towns or rural areas   (see below). This will likely drop about 15% of the overall sample of 6500; assuming another 15% ‘don’t know’ responses, our actual sample will be about 5,000, resulting in 30,000 responses overall, or about 500 per issue statement (or 1,000 per pair of statements).
+"
+contribution,"While there has been a significant amount of work recently on the politics of NIMBYism, including at least one publication (Hankinson 2018) that uses a survey experiment with varied scalar framing, our broader understanding of the local politics of spatial allocation is not well developed, and we are not aware of any work that addresses the relationship between ideology and allocational interests. Our results will advance our theoretical understanding of the factors that structure local policy attitudes. Building on Lucas’ (2024) recent work on ideology in municipal politics, it will give us new insight into how (and under what conditions) allocational interests shape policy attitudes in a manner that is orthogonal to the structuring impact of ideology."
+audience,"Our primary audience is academic scholars of local government and politics, as well as scholars who study policy fields that are strongly impacted by allocational preference dynamics (such as housing and transport). Our work will have scholarly relevance beyond the Canadian context, in particular in the US, where the institutional structure of local government gives significant power to hyper-local allocational interests, as in Canada (Einstein, Glick and Palmer 2020). In addition, we expect our work to be of interest to local policy-makers and politicians. Neighbourhood opposition to new development of many kinds presents fundamental challenges to effective local policy implementation in Canada and beyond, and our work will shed new light on the structure of that opposition."
+outputs,"We plan to submit our results to a general urban studies journal, such as Nature Cities, Cities, and Urban Studies. If this is unsuccessful we will try Urban Affairs Review and/or Journal of Urban Affairs."
+outputs_kmb,"After academic publication, we will write an engaging summary of our results in Conversation Canada or on IRPP, and cross-post it on the CMB website."
+timeline,"January-February 2025: data collection
+March-June 2025: data analysis
+July-September 2025: paper writing and submission"
+questions_pol,NA
+sample_pol,NA
+pew_pol,NA
+questions_genpop,"
+1.	Approximately how many years have lived in your current neighbourhood?  [We are interested in neighbourhood-level allocational effects, so we prefer this wording; however, the working could be changed to ‘in your current residence’ if that’s more useful for other projects. We could also have both variants on the survey if there’s room].
+
+2.	Which of the following terms best describes the place in which you live? Response: options: urban, suburban, small town, and rural.
+
+3.	Issue statement questions. There are 40 pairs of statements (80 in total). Each respondent will receive either six general-frame statements or six neighbourhood-frame statements, randomly assigned. The answer categories will be:
+
+strongly agree; somewhat agree; somewhat disagree; strongly disagree; don’t know
+
+Here are draft versions of our statement pairs. We place to do some more work to vary the tradeoff presentation in these statements before finalizing:
+
+1 	sochousing 	
+Municipalities should support the construction of subsidized housing, even if it means a slight increase in municipal taxes.  
+ My municipality should support the construction of subsidized housing in my neighbourhood, even if it means a slight increase in municipal taxes.  
+ 
+2 	rehab 	
+Municipalities should build residential facilities for people who are recovering from alcohol or drug addictions, even if it means increased costs for the municipality.
+My municipality should build a residential facility in my neighbourhood for people who are recovering from alcohol or drug addictions, even
+if it means increased costs for the municipality.
+ 
+3 	transitfreq 	
+Municipalities should invest in more frequent public transit services, even if it means a slight increase in municipal taxes. 	
+My municipality should invest in more frequent public transit service in my neighbourhood, even if it means a slight increase in municipal taxes. 
+ 
+4 	police 	
+Municipalities should invest in new police officers and vehicles to increase police presence, even if it means spending less on other municipal services. 
+ My municipality should invest in new police officers and vehicles to increase police presence in my neighbourhood, even if it means spending less on other municipal services.
+ 
+5 	parksrec 	
+Municipalities should spend more on parks and recreational programming, even if it means a slight increase in municipal taxes. 	
+My municipality should spend more on parks and recreational programming in my neighbourhood, even if it means a slight increase in municipal taxes. 
+ 
+6 	waste 	
+Municipalities should increase the frequency of waste collection, even if it means less spending on other municipal services.	
+My municipality should increase the frequency of waste collection in my neighbourhood, even if it means less spending on other municipal services.
+
+7 	artsculture 	
+Municipalities should increase support for arts and cultural events, even if it means a slight increase in taxes. 	
+My municipality should increase support for arts and cultural events in my neighbourhood, even if it means a slight increase in taxes.
+
+8 	homeless 	
+Municipalities should support the construction of shelter facilities for homeless individuals, even
+if it means increased costs for the municipality.	
+My municipality should support the construction of a shelter facility in my neighbourhood for homeless individuals, even if it means increased costs for the municipality.
+
+9 	playground 	
+Municipalities should build new playground facilities, even if it means a slight increase in taxes. 	My municipality should build a new playground facility my neighbourhood, even if it means a slight increase in taxes. 
+ 
+10 	library 	
+Municipalities should invest in public library facilities, even if it means a slight increase in taxes. 	
+My municipality should invest in public library facilities in my neighbourhood, even if it means a slight increase in taxes. 
+ 
+11 	apartment 	
+Municipalities should support the construction of mid-rise apartment buildings to increase housing supply. 	
+My municipality should support the construction of mid-rise apartment buildings in my neighbourhood to increase housing supply. 
+ 
+12 	roadrepair 	
+Municipalities should invest more in maintaining and repairing roads, even if it means a slight increase in taxes. 	
+My municipality should invest more in maintaining and repairing the roads in my neighbourhood, even if it means a slight increase in taxes. 
+ 
+13 	roadwiden 	
+Municipalities should upgrade and widen roads to reduce congestion, even if it means a slight increase in taxes. 	
+My municipality should upgrade and widen roads in my neighbourhood to reduce congestion, even if it means a slight increase in taxes. 
+ 
+14 	safeinjection 	
+Municipalities should support the opening of safe injection sites for drug users. 	
+My municipality should support the opening of a safe injection site for drug users in my neighbourhood. 
+ 
+15 	industrialpark 	
+Municipalities should support economic growth by building serviced industrial parks, even if it means a slight increase in taxes. 	
+My municipality should support economic growth by building a serviced industrial park in my neighbourhood, even if it means a slight increase in taxes. 
+ 
+16	bikelanes	
+Municipalities should build more bike lanes, even if it means slightly increased commuting times for drivers.	
+My municipality should build more bike lanes in my neighbourhood, even if it means slightly increased commuting times for drivers. 
+
+17 	immrefugee 	
+Municipalities should invest in immigrant and refugee welcome facilities. 	
+My municipality should invest in an immigrant and refugee welcome facility in my neighbourhood.
+ 
+18 	lowincome 	
+Municipalities should fund one-stop service centres for low-income families, even if it means a slight increase in taxes. 	
+My municipality should fund a one-stop service centre in my neighbourhood for low-income families, even if it means a slight increase in taxes. 
+ 
+19 	housingbuild 	
+Municipalities should loosen zoning restrictions to encourage more housing construction. 	
+My municipality should loosen zoning restrictions to encourage more housing construction in my neighbourhood. 
+ 
+20 	trees 	
+Municipalities should put more resources into tree maintenance, even if it means a slight increase in taxes. 	
+My municipality should focus put more resources into tree maintenance in my neighbourhood, even if it means a slight increase in taxes. 
+
+21 	fire 	
+Municipalities should invest in new firefighters and fire equipment to improve service response times, even if it means a slight increase in taxes. 	
+My municipality should invest in new firefighters and fire equipment to improve service response times in my neighbourhood, even if it means a slight increase in taxes. 
+ 
+22 	commerce 	
+Municipalities should simplify planning regulations to make it easier to build commercial buildings. 	
+My municipality should simplify planning regulations to make it easier to build commercial buildings in my neighbourhood. 
+ 
+23 	snow 	
+Municipalities should improve snow removal services, even if it means a slight increase in taxes. 	
+My municipality should improve snow removal services in my neighbourhood, even if it means a slight increase in taxes. 
+
+24 	devtcharges 	
+Municipalities should reduce or eliminate fees that they charge to property developers, even if it means a slight decrease in municipal revenues. 	
+My municipality should reduce or eliminate fees that it charges to property developers in my neighbourhood, even if it means a slight decrease in municipal revenues. 
+ 
+ 
+25 	publicart 	
+Municipalities should support commissioned public art by local artists, even if it means a slight increase in taxes. 	
+My municipality should support commissioned public art by local artists in my neighbourhood, even if it means a slight increase in taxes. 
+ 
+26 	womenshelter 	
+Municipalities should support the operation of residential facilities for women escaping abusive relationships, even if it means a slight increase in taxes. 	
+My municipality should support the operation of a residential facility in my neighbourhood for women escaping abusive relationships, even if it means a slight increase in taxes. 
+ 
+27 	coops 	
+Municipalities should encourage the development of more co-op housing. 	
+My municipality should encourage the development of more co-op housing in my neighbourhood. 
+
+28 	trafficcam 	
+Municipalities should invest in red light cameras to improve traffic safety, even if it means a slight increase in taxes. 	
+My municipality should invest in red light cameras to improve traffic safety in my neighbourhood, even if it means a slight increase in taxes. 
+ 
+29 	proptheft 
+	Municipalities should give police more resources to prosecute property theft, even if it means a slight increase in taxes. 	
+My municipality should give police more resources to prosecute property theft in my neighbourhood, even if it means a slight increase in taxes. 
+30 	 renters	
+Municipalities should increase resources to support the legal rights and interests of people who live in rental housing, even if it means a slight increase in taxes. 	
+My municipality should increase resources to support the legal rights and interests of people in my neighbourhood who live in rental housing, even if it means a slight increase in taxes. 
+ 
+31	securitycam	
+Municipalities should install more security cameras for safety, even if it means reduced privacy in public areas.	
+My municipality should install more security cameras for safety in my neighbourhood, even if it means reduced privacy in public areas. 
+
+32	washrooms	
+Municipalities should increase the number of public washrooms, even if it means repurposing parts of existing parks.	
+My municipality should increase the number of public washrooms in my neighborhood, even if it means repurposing parts of existing parks.
+
+33	carshare	
+Municipalities should promote car-sharing programs, even if it means reducing public parking spaces.	
+My municipality should promote car-sharing programs in my neighborhood, even if it means reducing public parking spaces.
+
+34	affhousing	
+Municipalities should support more affordable housing projects, even if it means reducing the amount of green space.	
+My municipality should support more affordable housing projects in my neighborhood, even if it means reducing the amount of green space.
+
+35	transit	
+Municipalities should improve public transportation services, even if it means reducing the number of car lanes.	
+My municipality should improve public transportation services in my neighborhood, even if it means reducing the number of car lanes.
+
+36	wildlife	
+Municipalities should enhance wildlife protection efforts, even if it means limiting construction near natural habitats.	
+My municipality should enhance wildlife protection efforts in my neighborhood, even if it means limiting construction near natural habitats.
+
+37	evcharging	
+Municipalities should provide more public charging stations for electric vehicles, even if it means reducing the number of gas stations.	
+My municipality should provide more public charging stations in my neighborhood, even if it means reducing the number of gas stations.
+
+38	carfree	
+Municipalities should introduce more car-free zones, even if it means making traffic routes longer for some drivers.	
+My municipality should introduce more car-free zones in my neighborhood, even if it means making traffic routes longer for some drivers.
+
+39	energyefficient	
+Municipalities should promote energy-efficient buildings, even if it means imposing stricter building regulations.	
+My municipality should promote energy-efficient buildings in my neighborhood, even if it means imposing stricter building regulations.
+
+40	walkable	
+Municipalities should prioritize walkability in local planning and design, even if it means reducing on-street parking availability.	
+My municipality should prioritize walkability in local planning and design in my neighborhood, even if it means reducing on-street parking availability.
+"
+sample_genpop,See the project description above.
+pew_genpop,Eight (six for the issue statements plus two additional closed-ended questions).
+qual,NA
+qual_budget,NA
+qual_travel,NA
+other_data,NA
+other_budget,NA
+ethics,1
+edi,1

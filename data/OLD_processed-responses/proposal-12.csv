@@ -1,0 +1,63 @@
+var,resp
+id,12
+StartDate,2024-09-10 16:07
+EndDate,2024-09-12 14:14
+Status,0
+IPAddress,96.20.170.247
+Progress,100
+Duration (in seconds),166022
+Finished,1
+RecordedDate,2024-09-12 14:14
+ResponseId,R_7hyz9h8cn3hXJib
+RecipientLastName,NA
+RecipientFirstName,NA
+RecipientEmail,NA
+ExternalReference,NA
+LocationLatitude,45.3927
+LocationLongitude,-75.829
+DistributionChannel,anonymous
+UserLanguage,EN
+pillar,1
+questions,3
+dc,1
+lead,Anne Mevellec
+participants,"Anne Mevellec, University of Ottawa"
+description,"While work on the sociology of municipal councillors is providing a clearer picture of their profiles, career paths and work, the question of age remains understudied. The image of elected representatives is still associated with those of mature individuals. This research proposition focuses on the youngest elected representatives (35 and under). They embody a possible “new generation” of elected officials, more highly educated and bringing an alternative way of conceiving municipal politics. Their presence also raises questions about other aspects of municipal politics, such as selection processes, harassment and the distribution of responsibilities within municipal councils."
+contribution,"The literature on young elected officials at the municipal level is very limited (as it is for young parliamentarians). I have carried out a qualitative survey of young elected municipal officials in Quebec, which showed promising results. So age is not just an objective characteristic of elected officials, but needs to be understood in context. An intersectional perspective (particularly in relation to gender, parenthood, embedeness and property) explains how young elected officials are able to “play” with their age. By extending the field of investigation via the barometer, the results will provide a broader picture than the preliminary study carried out for Quebec. They will not only provide a better understanding of the opportunities and constraints faced by young elected municipal officials, but also build bridges with the literature on political elites in general.
+"
+audience,"Municipal associations in the various provinces (e.g. AMO, UMQ) are taking a close interest in the presence of young people in active politics. They are seeking to better understand the barriers that seem to stand in the way of their presence. The research will therefore have as its audience: 1) an academic public interested in the sociology of elected representatives; 2) associations and groups mobilized around the representativeness of politics (particularly municipal politics)."
+outputs,"The results could be published in an international journal on political representation. Representation, Journal of Representative Democracy (Taylor & Francis) comes to mind. In open access, the journal would ensure dissemination of the results to a wide, international audience."
+outputs_kmb,"The results would also be presented in various “transfer” mediums. These could include municipal association conferences (e.g. UMQ, AMO or AFMO annual conventions), as well as their own journals."
+timeline,"'- 3 months after data collection, a manuscript will be ready for submission to an international journal, such as Representation.
+- In the year following data collection, we will participate in municipal association conferences (e.g. in May in Quebec, and in August in Ontario)”."
+questions_pol,"Demographics
+-	Do you have children? (Avez-vous des enfants ?) 
+-	If yes, under 6, between 6 and 11, Between 12 and 16, over 17 ? (Si oui, de moins de 6 ans, entre 6 et 11 ans, entre 12 et 16 ans, de plus de 17 ans).
+
+Campaign
+- Was your age an asset, an advantage or a neutral factor in your election campaign?
+- During the election campaign, were you :
+o Opposed to candidates all older than you (y/n)
+o Opposed to candidates in the same age group as you (y/n)
+
+Embeddedness
+-	How long have you lived in the municipality in which you were elected? (Depuis quand résidez-vous dans la municipalité dans laquelle vous êtes élu ?)
+
+
+Exercise of mandates (could be cross-referenced with age, but could be used for other research projects) (Exercice des mandats (qui pourrait être croisée avec l’âge, mais qui pourrait servir pour d’autres projets de recherches). Les deux premières questions sont tirées de Winsvold, Odegard et Bergh (2018).
+-	I am being taken seriously as a politician (to a very large extent ; to a large extent ; to some extent ; only to a limited or very limited extent).
+-	In this municipality established politicians tend to exclude younger politicians (totally agree ; somewhat agree ; neither agree nor disagree ; somewhat disagree ; totally disagree).
+-	did you get the responsibilities you wished for?
+"
+sample_pol,"at least the province of Quebec. But to get broader results for Canada, I'd add at least Ontario. Since this is, I believe, the first study on the question of age, I suggest aiming as widely as possible to have a pan-Canadian benchmark for subsequent studies."
+pew_pol,"8,01"
+questions_genpop,NA
+sample_genpop,NA
+pew_genpop,NA
+qual,NA
+qual_budget,NA
+qual_travel,NA
+other_data,NA
+other_budget,NA
+ethics,1
+edi,1

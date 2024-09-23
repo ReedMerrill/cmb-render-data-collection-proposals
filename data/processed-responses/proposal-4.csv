@@ -1,0 +1,181 @@
+var,resp
+id,11
+StartDate,2024-09-12 11:54
+EndDate,2024-09-12 12:35
+Status,0
+IPAddress,24.225.251.73
+Progress,100
+Duration (in seconds),2419
+Finished,1
+RecordedDate,2024-09-12 12:35
+ResponseId,R_3YeLE0Qab50Q5ZT
+RecipientLastName,NA
+RecipientFirstName,NA
+RecipientEmail,NA
+ExternalReference,NA
+LocationLatitude,45.5212
+LocationLongitude,-73.5524
+DistributionChannel,anonymous
+UserLanguage,EN
+pillar,1
+questions,3
+dc,"1,4"
+lead,"Sandra Breux, professor, INRS, sandra.breux@inrs.ca"
+participants,"Anne Mévellec, professor, mevellec@uottawa.ca"
+description,"At a time when the municipal elective function is currently under stress, whether due to resignations or incivilities, this leads us to question the elective function and the way it is defined by both elected representatives and citizens. This question is relevant because it indirectly raises the following issues :
+
+- the conception of the political profession and representation
+
+- Variations in this conception, depending on the context (size of the municipality) and the person speaking (socio-demographic profile, but also ideology).
+
+
+
+Alors que la fonction élective municipale est actuellement sous-tension, que ce soit en raison des démissions, des incivilités, cela amène à interroger la fonction élective et la façon dont elle est définie tant par les élus que par les citoyens. Cette question est pertinente car elle interroge indirectement :
+
+o	La conception du métier et de la représentation politiques 
+
+o	Les variations de cette conception en fonction du contexte (taille de la municipalité) et de la personne qui parle (profil socio-démographique, mais aussi idéologie)"
+contribution,"One of the reasons for resignations is that people entering municipal politics don't really “understand” what it's all about - in other words, they don't really know how to define their role.
+
+This project will help us to understand how they see their roles, and the gap between their representations and those of citizens.
+
+
+
+L’une des raisons des démissions vient du fait que les gens qui se lancent en politique municipale ne « comprennent » pas vraiment de quoi il est question, dit autrement, ne savent pas vraiment définir leur rôle.
+
+Ce projet va permettre de saisir comment ils voient leurs rôles, mais aussi l’écart entre leurs représentations et celles des citoyens.
+
+
+
+
+
+"
+audience,Academic political scientists
+outputs,"Paper 1 : Elected office: a job or a profession? (only dealing with data from the politician survey)
+
+Paper 2 : What is an elected municipal official? The views of elected representatives and citizens (if there is an election survey)"
+outputs_kmb,"I believe that associations of municipalities, ministries - and even some elected representatives - would be interested in seeing these results, perhaps in the form of a conference.
+
+A text summarizing the main results could be posted on the barometer website."
+timeline,"January-February 2025: Data collection
+
+March-May 2025: Data analysis
+
+June: maybe a first presentation in front of a few CMB members or at CPSA. It will be a preliminary  version.
+
+Fall 2025 : submission to a journal"
+questions_pol,"All the questions suggested here are taken from the CEVIPOF survey (enquête sur les maires de France, 2023; 2021; Foucault, 2023), which we have adapted to the Canadian context: 
+
+Would you say that being an elected official is :
+
+o	A profession
+
+o	A function
+
+o	I don't know 
+
+
+
+A number of elected municipal officials have resigned from their posts in recent years. In your opinion, what are the reasons for this phenomenon?
+
+o	Too many demands from citizens 
+
+o	Increasingly complex relations with the provincial government 
+
+o	Difficulties reconciling the exercise of one's mandate with one's personal life 
+
+o	A feeling of insecurity and overexposure to citizen behavior
+
+o	Insufficient financial resources within the commune 
+
+o	Low remuneration
+
+o	Difficulty working with the municipal council 
+
+o	Health reasons
+
+o	Lack of training/information 
+
+
+
+Here's a list of proposals to improve the material conditions under which you carry out your job. Select the proposal that seems most important to you:
+
+•	Increase the remuneration of elected representatives
+
+•	Facilitate leave of absence for political responsibilities (to increase the time available to be devoted to the mandate).
+
+•	Increase training for elected representatives in the first year (or as mandates progress).
+
+
+
+Since becoming an elected representative, how many times have you taken a training course related to your mandate?
+
+
+
+	No training
+
+	Between 1 and 3 training sessions
+
+	Between 4 and 5 training sessions
+
+
+
+In your opinion, in which areas should an elected municipal official receive priority training? (choose 3 in order of preference)
+
+o	Ethics
+
+o	Governance 
+
+o	Management
+
+o	Human resources
+
+o	Administration (and municipal law?)
+
+o	Leadership
+
+o	accounting 
+
+o	New issues (climate change, immigration, etc.)
+
+o	Others
+
+o	Work-work balance
+
+o	Work-life balance
+
+o	Work climate
+
+o	Citizen relations
+
+o	Media relations
+
+
+
+In order for a citizen to trust an elected municipal official, what qualities must an elected official have? First and second?
+
+o	Honesty; 
+
+o	Keeping promises; 
+
+o	That he knows his files; 
+
+o	Be close to people like you; 
+
+o	Be enterprising; 
+
+o	Be of the same political sensibility as you
+
+"
+sample_pol,full sample
+pew_pol,"4,69"
+questions_genpop,NA
+sample_genpop,NA
+pew_genpop,NA
+qual,NA
+qual_budget,NA
+qual_travel,NA
+other_data,Initial results could lead to interviews with elected officials.
+other_budget,35
+ethics,1
+edi,1

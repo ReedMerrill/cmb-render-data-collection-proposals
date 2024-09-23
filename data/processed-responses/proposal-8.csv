@@ -1,0 +1,93 @@
+var,resp
+id,15
+StartDate,2024-09-13 10:16
+EndDate,2024-09-13 10:36
+Status,0
+IPAddress,24.138.36.178
+Progress,100
+Duration (in seconds),1237
+Finished,1
+RecordedDate,2024-09-13 10:36
+ResponseId,R_2Czo1P1hEHbvRER
+RecipientLastName,NA
+RecipientFirstName,NA
+RecipientEmail,NA
+ExternalReference,NA
+LocationLatitude,44.6747
+LocationLongitude,-63.5094
+DistributionChannel,anonymous
+UserLanguage,EN
+pillar,3
+questions,2
+dc,2
+lead,"Kristin Good; Kristin.Good@Dal.Ca; Department of Political Science, Dalhousie University."
+participants,"Jack Lucas; Jack.Lucas@ucalgary.ca; Department of Political Science, University of Calgary"
+description,"Canada has witnessed a variety of unilaterally imposed major municipal reforms across the country in a variety of provinces.  Whereas some of the most nationally-discussed reforms have been in the larger provinces of Alberta and Ontario, the Halifax Regional Municipality’s charter legislation which governs Nova Scotia’s largest city and CMA has also been changed unilaterally, empowering the minister to nullify municipal bylaws without consulting the municipality.  These actions are possible because of the legal status of municipalities, which is informed by the constitutional doctrine of municipalities as “creatures of the provinces,” a commonality to Anglo municipal systems.  Although municipal democracy has become an important norm in Western democracies around the globe, the possibility of unilateral reform or even the elimination of municipalities by provinces reflects the orthodoxy with respect to what is legally permissible in such systems.  
+
+This work explores the relationship between this “creatures of the provinces” orthodoxy (which empowers provinces to implement heavy-handed, unilateral reforms to municipal institutions and the division of power) and the health of local democracy at a systemic level.  The work hypothesizes that major reforms to municipal institutions enacted by provinces unilaterally have the effect of decreasing the public’s interest in municipal politics.  Essentially, we propose that such unilateral actions send the message to the public that municipal institutions are unimportant and that their attention to politics would be better directed at other orders of government.  It reduces the public’s sense of municipalities’ institutional efficacy.  
+
+In order to begin to explore this relationship, we propose to conduct a survey experiment that primes a randomized group of the public with examples of heavy-handed provincial actions before asking about their level of interest in municipal politics.  We then propose to compare their answers with a group that hasn’t been primed in that way.  
+
+"
+contribution,"Current literature discusses whether provincial heavy-handedness is consistent with the moral foundations of Canadian democracy and some work proposes ways of creating constitutional space for municipalities.   Other work argues that provinces must take a stronger interest in urban affairs and cautions against limiting provincial power (see for instance, work by Sancton (2008) and Taylor 2019).  However, the effect that heavy-handed provincial actions have on local democracy from the perspective of influencing citizen engagement has not yet been explored.  Understanding this relationship would be crucial to understanding how to improve local democracy.  This work would probe the effect of the “creatures of the provinces” on local democracy and in doing so may offer insights that could be explored in other Anglo municipal systems as well."
+audience,"The audience for this work will be wide and includes local government scholars, provincial decisionmakers, the political elite in Canada in general as well as the educated public."
+outputs,"We propose to publish our findings as a paper in CJPS on the effects of the “creatures of the provinces” on local democracy.  We also propose to write op-eds for the Globe and Mail, Toronto Star, Saltwire and other newspapers with a headline like this - Heavy Handed Provincial Actions Dampen Interest in Local Democracy (if we confirm our hypothesis)."
+outputs_kmb,-99
+timeline,"Since the survey will be fielded in the winter of 2025, the academic paper could be written for the next CPSA meeting in Toronto in 2025.  A series of more public-facing pieces would follow shortly after the academic paper is written or even as soon as the data are analyzed."
+questions_pol,NA
+sample_pol,NA
+pew_pol,NA
+questions_genpop,"Survey data (public): 
+
+
+
+Control text 
+
+In Canada, municipal governments typically have responsibility for many areas of public policy, such as land-use planning, local utilities, policing and fire, parks and recreation, economic development, and many other areas.
+
+
+
+Treatment text [ONTARIO + QUEBEC]
+
+In Canada, municipal governments typically have responsibility for many areas of public policy, such as land-use planning, local utilities, policing and fire, parks and recreation, economic development, and many other areas. In 2018, Ontario’s provincial government cut the size of Toronto’s city council in half after some candidates had already begun campaigning. Then, in 2023, the provincial government changed the powers of local mayors without consulting municipalities. 
+
+
+
+Treatment text [NOVA SCOTIA + ATLANTIC CANADA]
+
+In Canada, municipal governments typically have responsibility for many areas of public policy, such as land-use planning, local utilities, policing and fire, parks and recreation, economic development, and many other areas. In 2022, Nova Scotia’s provincial government passed an amendment that allows the provincial government to nullify a municipal bylaw enacted by the Halifax municipal government, without even consulting Halifax’s municipal council. 
+
+
+
+Treatment text [ALBERTA + WESTERN CANADA]
+
+In Canada, municipal governments typically have responsibility for many areas of public policy, such as land-use planning, local utilities, policing and fire, parks and recreation, economic development, and many other areas. In 2024, Alberta’s provincial government introduced reforms that would allow it to remove councillors from office and override municipal bylaws. 
+
+
+
+1. interest -  How interested are you in municipal politics? Not at all, a little, a fair bit, a lot  
+
+
+
+2. impact -  In your opinion, how much does each of the following governments have on your quality of life? 
+
+Municipal Government None, Some, Quite a Bit, A Lot, Don’t Know
+
+Provincial Government None, Some, Quite a Bit, A Lot, Don’t Know
+
+
+
+3. voting -  How likely is it that you will vote in the next municipal election in your community? 
+
+	Extremely unlikely, somewhat unlikely, somewhat likely, extremely likely
+
+"
+sample_genpop,"We need samples from Ontario, Alberta and Nova Scotia."
+pew_genpop,3 Pew Points
+qual,NA
+qual_budget,NA
+qual_travel,NA
+other_data,NA
+other_budget,NA
+ethics,1
+edi,1

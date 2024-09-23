@@ -10,7 +10,7 @@
 # List all CSV files in the directory
 csv_dir="../data/processed-responses"
 # breaks if there are spaces in the filename
-csv_files=(`find $csv_dir -type f -name "*.csv"`)
+csv_files=$(ls $csv_dir)
 
 n_files=${#csv_files[@]}
 

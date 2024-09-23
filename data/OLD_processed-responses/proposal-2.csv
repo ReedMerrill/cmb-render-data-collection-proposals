@@ -1,0 +1,88 @@
+var,resp
+id,2
+StartDate,2024-09-04 10:27
+EndDate,2024-09-04 10:32
+Status,0
+IPAddress,108.172.10.217
+Progress,100
+Duration (in seconds),307
+Finished,1
+RecordedDate,2024-09-04 10:32
+ResponseId,R_3iPD4vWvIyq72t6
+RecipientLastName,NA
+RecipientFirstName,NA
+RecipientEmail,NA
+ExternalReference,NA
+LocationLatitude,48.4204
+LocationLongitude,-123.3005
+DistributionChannel,anonymous
+UserLanguage,EN
+pillar,3
+questions,1
+dc,1
+lead,"Alison Smith, Associate Professor, UTM, alisonmary.smith@utoronto.ca"
+participants,"Gabriel Eidleman, Assistant Professor, University of Toronto, g.eidelman@utoronto.ca
+
+Jack Lucas, Professor, University of Calgary, jack.lucas@ucalgary.ca
+
+Marc-Antoine Rancourt, PhD Candidate, University of Toronto, marcantoine.rancourt@mail.utoronto.ca
+"
+description,"We propose to update a small but important project regarding issue salience at the local level. This involves asking local elected officials which issues matter most in their communities, asking them to answer for a number of different policy areas (parks and recreation, policing, homelessness, etc), and how much each issue matters (not at all important to extremely important).
+
+There is considerable qualitative and anecdotal evidence to suggest that the issues that matter to local elected officials have changed significantly over the past 5 years. In my own research, local elected officials, including city councillors, a Mayor of a small municipality, and city staff have stressed that they are under increasing pressure from citizens, businesses, emergency responders and service providers to increase their involvement in areas not typically associated with local governments, including housing, homelessness, drug use and mental health.
+
+In the past, we found that there are a small number of issues - including transit, climate, and to some extent housing policy - that matter to big cities. There is reason to believe that 1) even more complex policy problems (overdose crisis) are on the agendas of big cities and 2) formerly “big city issues” now matter to municipalities of various sizes, including small ones.
+"
+contribution,"I think there are a number of contributions here, including an accounting of the failings of senior policy-making (ie federal and provincial social policies) that are impacting local governments. This will show the increasingly important role that municipalities of all sizes, not just the biggest, play in Canadian governance and policy-making, and will make very clear the mismatch in authorities and resources. Especially because this question was asked in 2018, this stands to make an even bigger contribution by not just showing a snapshot of who thinks what matters, but by documenting how that has changed over an important period of time.
+"
+audience,"If this is along the lines of the first policy paper, it would have a number of audiences. This would include scholars who could use it to map perceived responsibilities, and as a reference for future research. It is also a useful resource for students in classes relating not just to urban governance and urban politics but governance and politics at all scales in Canada. Again because this can build on the past survey, it will give a really clear picture of pre- and post-pandemic policy and governance challenges.
+"
+outputs,"The main output would be an academic paper aimed at CJPS or CPA. It would entail describing results along the lines of the 2019 policy paper, including overall results of which issues matter how much, as well as issues importance based on population size, issue importance by region, province, etc. Results will also be compared with results from the 2018 survey, allowing for more analysis of changes over time.
+"
+outputs_kmb,"We could write up a shorter blog post or report for Calgary’s SPP or the School of Cities to summarize results or perhaps to document the ways in which local government roles have changed with respect to complex policy areas since 2018.
+"
+timeline,"We propose to include these questions on both the mass and elite surveys. The surveys run in January, with data available in March. Alison will be on leave for fall and winter semesters, but analysis can begin (including initial analysis by Marc-Antoine Rancourt) in the early spring with a draft paper ready by late spring (April). If needed, Gabe can support with his RA as well.
+"
+questions_pol,"This is what was used in the 2018 survey. We propose to add in an additional issue, proposed language is “drug use” or “drug overdoses”
+
+How important is each of these policy areas to life in your community?
+ 
+Not at all important (1)
+Slightly important (2)
+Moderately important (3)
+Very important (4)
+Extremely important (5)
+
+
+Electricity and natural gas supply  
+Homelessness  
+Parks and recreation  
+Public health  
+Culture and the Arts 
+Economic development 
+Emergency planning
+Housing
+Immigrant settlement  
+Land use planning and regulation
+Policing 
+Public Transit 
+Roads, Bridges, and Highways 
+Solid waste (collection and disposal)    
+Indigenous relations / Indigenous affairs  
+Water supply 
+Climate change policy 
+Poverty reduction
+"
+sample_pol,"Ideally we would get full coverage for all of these questions, including respondents from all provinces and municipalities of all sizes. 
+"
+pew_pol,19 questions X .67 (battery items) = 12.73
+questions_genpop,NA
+sample_genpop,NA
+pew_genpop,NA
+qual,NA
+qual_budget,NA
+qual_travel,NA
+other_data,NA
+other_budget,NA
+ethics,1
+edi,1

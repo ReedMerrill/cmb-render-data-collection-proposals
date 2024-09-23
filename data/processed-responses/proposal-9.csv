@@ -1,0 +1,205 @@
+var,resp
+id,16
+StartDate,2024-09-13 9:41
+EndDate,2024-09-13 11:24
+Status,0
+IPAddress,184.147.168.95
+Progress,100
+Duration (in seconds),6206
+Finished,1
+RecordedDate,2024-09-13 11:24
+ResponseId,R_5KovTOoewGEhi6m
+RecipientLastName,NA
+RecipientFirstName,NA
+RecipientEmail,NA
+ExternalReference,NA
+LocationLatitude,43.6089
+LocationLongitude,-79.5002
+DistributionChannel,anonymous
+UserLanguage,EN
+pillar,4
+questions,-99
+dc,"2,4"
+lead,"Sarah Lachance, Postdoctoral Associate, University of Calgary, sarah.lachance@ucalgary.ca"
+participants,"Sophie Borwein
+
+Assistant Professor
+
+University of British Columbia
+
+sophie.borwein@ubc.ca
+
+ 
+
+Alan Jacobs
+
+Associate Professor
+
+University of British Columbia.
+
+alan.jacobs@ubc.ca
+
+"
+description,"In Charlotte Cavaillé’s recent, highly-influential, study of why growing income inequality cross-nationally is often not met with increasing demand for redistribution, the author argues that redistributive preferences are often strongly tied to people’s perceptions of the fairness of the existing distribution of resources, and specifically, concerns about the potential for free riding among redistribution’s beneficiaries. Building on Cavaillé, Canadian research also shows that beliefs about the prevalence of free-riding are one of the main justifications for opposing a basic income (Lachance et al, 2024). Such concerns about free-riding can drive relatively stable preferences for redistribution, even as societies grow increasingly unequal (Cavaillé 2024). 
+
+ 
+
+Yet while research on free-riding is very useful for explaining stability in redistributive attitudes, it has much less to say on how —or whether—free-riding beliefs can change, and by extension, change redistributive preferences. To fill this gap, in this proposal, we examine whether changes in people’s local economic contexts can affect fairness perceptions and shift attitudes toward free-riding, and whether such shifts can motivate support for higher levels of redistribution. Specifically, we focus on three local economic shocks that are perceived to be more or less fair (i.e., exogenous to communities): dislocation associated with climate change, trade, and automation and AI (Borwein et al., 2024; Rodrik 2018).
+
+ 
+
+In doing so, we build on research that suggests that citizens’ redistributive preferences are often more responsive to local rather than national economic conditions (Borwein, 2020; Cruces et al. 2013; Donnelly 2021; Thal 2017). We thus test the possibility that individuals may be better able to assess whether beneficiaries are responsible for—or have control over—their financial situation at more local levels of geography. If this hypothesis is true, we would expect beliefs about free-riding to be affected by living in a vulnerable community. To be more specific, living in a vulnerable community, where workers are perceived to experience financial insecurity for reasons outside their control (e.g. climate change) should decrease concerns with free-riding. This, in turn, could affect support for basic income and other redistributive policies.
+
+ 
+
+Finally, we also test alternative mechanisms behind support for redistribution, including the possibility that local economic shocks can drive support for redistributive policies less through free-riding concerns, and more by re-shaping material considerations. For example, community vulnerability could influence support for basic income less by changing free-riding beliefs, and more by changing residents’ evaluations of their financial prospects. A final alternative possibility is that local economic shocks can actually reduce support for redistribution, by heightening perceptions of scarcity, which might make some respondents more sensitive to free-riding. We will use survey data to disentangle these types of reasoning.
+
+ 
+
+To test these hypotheses, we plan to combine the CMB survey data with objective data on community vulnerability to labour market disruptions. To measure the latter, depending on the availability of data, we plan to gather multiple different measures, including measures of vulnerability to job loss caused by climate change, trade, AI and automation at the local level, and data on local general unemployment levels. For climate vulnerability, we hope to draw on IRPP data’s from the Community Transformations Project to measure local susceptibility to job losses due to decarbonization. While decarbonization is the result of a policy, and is not by essence exogenous to the causal relationships explaining support for redistribution, we could argue that at the level of analysis we are interested in (non-electoral units, in this case census divisions), it is. In the CMB module, we will ask respondents about their perceptions of the local economy, their personal financial prospects, their beliefs about free-riding among welfare recipients, and support for redistributive policies. Hence, by combining data on structural economic conditions at the local level, with the high geographic coverage of the CMB survey data, we can disentangle the material and moral mechanisms behind support for basic income. To sum up, the findings of this study will shed light on the puzzle of the inelasticity of attitudes toward policies aimed at reducing inequality by exploring the impact of the local economic context on beliefs about free-riding.
+
+"
+contribution,"The bulk of the political behaviour literature on attitudes toward redistribution measures citizens’ economic perceptions at a very high geographic level, usually national, and finds that people misperceive socioeconomic conditions and the characteristics of welfare recipients. These misperceptions could be due to the difficulty of obtaining accurate information at such aggregate levels. Our proposal makes a contribution by measuring perceptions of socioeconomic conditions and beliefs about free-riding among welfare recipients at the local level. By observing their local community on a daily basis, citizens should be better able to perceive the context of local welfare recipients as opposed to welfare recipients in the broader population. More specifically, we will leverage the high granularity of the CMB to measure perceptions of community vulnerability to exogenous economic shocks at the local level. We will then link this data with local economic data to assess the accuracy of citizens’ perceptions of community vulnerability and their beliefs about free-riding among welfare recipients. In sum, considering the local context in our theory and empirical strategy will generate new insights on the mechanisms that drive support for redistribution in Canada and elsewhere.
+
+
+
+Moreover, our proposed design circumscribes the role of moral reasoning in shaping attitudes toward redistribution by using diverse sources of labour market disruptions (climate change, trade, AI and automation) and a diverse set of redistributive policies for our outcome measures. This will allow us to determine whether our results can be generalized to multiple sources of exogenous shocks or redistributive policies. Finally, the large geographic coverage of the CMB data means that our sample will be diverse culturally and economically, which will allow us to make generalizable inferences."
+audience,"The primary audience for this research is academic, as we believe this research agenda makes a contribution to active theoretical debates on the connection—or lack thereof—between objective economic conditions and redistributive preferences, and the role of self-interest versus other-regarding or moral considerations in shaping preferences.
+
+ 
+
+However, we think this research will also be of interest to the broader policy community, who must grapple with how to cushion Canadian communities from a new set of acute and highly-geographically concentrated challenges, including—but not limited to—employment shocks associated with climate change and technological change.
+
+"
+outputs,"Our primary output will be one academic journal article, which we think could be of interest to high-impact international political science journals that publish work at the intersection of political economy and political behaviour, such as Political Behaviour, BJPS, CPS, PSRM, or West European Politics.
+
+"
+outputs_kmb,"While we have not yet confirmed their participation, one of the data sources we plan to use in this project to capture local economic conditions is the IRPP’’s “Community Transformation Project” newly-collected dataset, which measures local economic vulnerability to climate change. Should their data feature in our project, we hope to collaborate with them to write a short policy brief outlining our findings, for publication by the IRPP.
+
+"
+timeline,"November 2024: Submit proposal to CPSA
+
+November/December 2024: Apply for REB proposal with the University of British Columbia and the University of Calgary.
+
+November-December 2024: Gather contextual measures of local economic shocks
+
+Winter/Spring 2025: CMB data collection 
+
+March-April 2025: Data cleaning and data analysis
+
+April-May 2025: Paper write-up
+
+June 2025: Present at CPSA
+
+June 2025: Write short report for publication by IRPP or other non-academic outlet
+
+July-August 2025: Revise paper
+
+September 2025: Submit paper to journal
+
+"
+questions_pol,NA
+sample_pol,NA
+pew_pol,NA
+questions_genpop,"What is your employment status?
+
+
+
+Which of the following industries most closely matches the one in which you are employed? / Which of the following industries most closely matches the one in which you were most recently employed? [Categorical: 20 categories]			
+
+
+
+What is your main occupation? [Categorical: preference is NOC scheme (10 first-level categories; 1-5 second-level categories, conditional on response to first question)]
+
+
+
+How would you rate your personal financial situation? [Poor, Only fair, Good, Excellent]
+
+
+
+How do you expect your personal financial situation to be in five years? [Poor, Only fair, Good, Excellent]
+
+
+
+How would you rate the economic condition of your municipality currently?  [Poor, Only fair, Good, Excellent]
+
+
+
+How do you expect the economic condition of your municipality to be in five years?  [Poor, Only fair, Good, Excellent]
+
+
+
+Do you think what happens generally to your local community will have something to do with what happens in your life? [Will it affect you a lot, some, a little, or not at all?]
+
+
+
+How would you rate the vulnerability of your municipality to the following potential sources of economic disruption? [Not vulnerable at all, somewhat vulnerable, very vulnerable, extremely vulnerable]: Climate change, Trade, AI, Automation
+
+
+
+Economic forces like trade, technological change, and climate adaptation present new opportunities for Canada to grow its economy and enhance its global competitiveness, but these shifts will also create both winners and losers. While some sectors and workers may thrive, recent economic projections estimate that a significant share of Canadians could lose their jobs or face lower wages in the next 5 to 10 years as a result of these changes.
+
+Given the upsides and downsides, how fair do you perceive economic transformation associated with each of the following to be? [not at all fair, somewhat unfair, neither, somewhat fair, very fair]
+
+Climate change
+
+Trade with foreign countries
+
+Workplace automation and AI
+
+
+
+Do you agree or disagree with the following statements?  [likert-scale items, agreement rated from 1 (strongly disagree) to 7 (strongly agree)]
+
+Too many people benefit from social services that they haven’t helped to pay for.
+
+Most unemployed people do not really try to find a job.
+
+
+
+Do you agree or disagree with the following statements? [likert-scale items, agreement rated from 1 (strongly disagree) to 7 (strongly agree)]
+
+Life is so devised that when somebody gains, others have to lose
+
+Successes of some people are usually failures of others
+
+
+
+How concerned are you that you will not have enough resources (e.g., money, time) in the future? [likert-scale items, concern rated from 1 (not concerned at all) to 7 (very concerned)]
+
+
+
+How would you describe your household’s current financial situation? [We can easily make ends meet, We struggle to make ends meet, We cannot make ends meet]
+
+ 
+
+Do you agree or disagree with the following statement? [likert-scale items, agreement rated from 1 (strongly disagree) to 7 (strongly agree)]
+
+It should be the government’s responsibility to reduce income differences between rich and poor.
+
+
+
+Do you support or oppose the following policies? Indicate your opinion on a scale from 0 to 10, where 0 means you strongly oppose the policy and 10 means you strongly support the policy.
+
+A basic income policy, which would provide every adult a set amount of money regularly
+
+Increasing tax-related benefits for low-income households
+
+Increasing unemployment benefits
+
+"
+sample_genpop,We do not require anything beyond the current size and characteristics of the sample.
+pew_genpop,20.38
+qual,NA
+qual_budget,NA
+qual_travel,NA
+other_data,"We plan to collect objective measures of local economic circumstances, including vulnerability to trade, automation and AI (e.g., local manufacturing share, “robot penetration” and ICT investment (see Scholl and Kurer 2024)), and measures of climate vulnerability.
+
+ 
+
+
+
+"
+other_budget,"If the CMB has interested RAs, we anticipate this data collection could require ~30 hours of research work.  However, we also have some funds set aside to fund an RA for these tasks."
+ethics,1
+edi,1

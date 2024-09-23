@@ -1,0 +1,102 @@
+var,resp
+id,13
+StartDate,2024-09-13 7:28
+EndDate,2024-09-13 7:41
+Status,0
+IPAddress,205.151.70.16
+Progress,100
+Duration (in seconds),791
+Finished,1
+RecordedDate,2024-09-13 7:41
+ResponseId,R_5dZvbnm3Hrr13LF
+RecipientLastName,NA
+RecipientFirstName,NA
+RecipientEmail,NA
+ExternalReference,NA
+LocationLatitude,45.5191
+LocationLongitude,-73.6852
+DistributionChannel,anonymous
+UserLanguage,EN
+pillar,2
+questions,3
+dc,"1,2,4"
+lead,"Sandra Breux, professor, sandra.breux@inrs.ca"
+participants,"Jack Lucas, professor, jack.lucas@ucalgary.ca"
+description,"The planned research is based on three ideas:
+-   	At the municipal level, even when there is no political party, voters still take partisan shortcuts to make their choices (Lucas).
+-   	We also know that voters' choices at the ballot box can differ according to their place of residence: inner cities tend to be more left-wing, while the outskirts tend to be more right-wing. Few studies have examined this phenomenon at the municipal level (Villeneuve et al.), yet we know that peripheral/central distinctions exist (Couture).
+-   	Research in France (Torre) has shown that voting for the extreme right follows a clear geographical and social logic, however :
+o   these spatial differences are largely due to the concentration of certain social categories with higher or lower incomes in certain areas
+o   that there are inequalities between municipalities according to their median income: residents of poorer municipalities voted more for the far right, and residents of municipalities richer than their neighbors voted more for Macron in 2022.
+ 
+The aim is to capture, in the Canadian case :
+-   	 1) The spatial distribution of vote choice
+-   	 2) How electors position winners and losers on the left-right axis
+-   	 3) How elected representatives position themselves and their concurrent on the left-right axis
+-   	 4) Median incomes for municipalities (and, where possible, on a finer scale (boroughs, districts)
+-   	 5) How elected officials position their municipalities economically in relation to neighbouring and comparable municipalities
+-   	6) How voters position themselves economically in relation to residents of neighboring municipalities.
+"
+contribution,"To my knowledge,  ideology, the geographic distribution of the vote, income and the perceived economic health of the municipality have never been linked, to understand vote choice."
+audience,"academic community (political scientists, geographers)"
+outputs,2 peer review articles if possible.
+outputs_kmb,"Maps of the spatial distribution of vote choice if possible, could be published on the website.
+short report for the website"
+timeline,"Winter 2025 : data collection
+Spring 2025: first analysis; june : presentation of preliminary results if possible
+Fall 2025 : submission to journal if possible
+"
+questions_pol,"Adapted from CMB 2020
+ 
+To your knowledge, how does your municipal economic health compare to similar positions in other neighbouring Canadian municipalities of roughly similar size?
+o   Much lower than average 
+o   Somewhat lower than average
+o   About average
+o   Somewhat higher than average
+o   Much higher than average
+o   Don't know 
+
++ core questions of the survey
+How do you position the following candidates (put the list of candidates the elected representatives faced (excluding acclamation elections) on a left-right axis?
+ 
+
+"
+sample_pol,Full sample
+pew_pol,"1,67"
+questions_genpop,"From CMES :
+Using the same scale, where would you place the following mayoral candidates?
+Using the same scale, where would you place the following candidates
+Among all these people, who is the one you feel closest to? (insert names of mayoral candidates)?
+ 
+-   	Did you vote for this person in the last election?
+ 
+When you think of people in neighboring municipalities, do you feel :
+-   	Much less favored
+-   	Slightly less favored
+-   	About the same
+-   	A little more favored
+-   	Much more favored
+-   	Don't know
+ 
+ 
+To complete and explore these questions, it might be possible to take up the place resentment measure developed by Borwein and Lucas (2022, p.9) (this is not intended to replace the question above). I do think, however, that these questions should be adapted a little, but I don't have any ideas yet.
+o   Culture : In Canada, {in-place} areas have a distinctive culture that is often misunderstood by people in {out-place} areas. (Strongly agree, somewhat agree, somewhat disagree, strongly disagree, don’t know)
+ 
+o   Economy:  In Canada, {in-place} areas have distinct economic interests that are often ignored by people in {out-place} areas (Strongly agree, somewhat agree, somewhat disagree, strongly disagree, don’t know)
+ 
+o   Politics :  In Canada, {out-place} areas have too much say in Canadian politics. Strongly agree, somewhat agree, somewhat disagree, strongly disagree, don’t know
+ 
+o   Politics : Politicians care more about representing people in {out-place} areas than in {in-place} areas. Strongly agree, somewhat agree, somewhat disagree, strongly disagree, don’t know
+"
+sample_genpop,full sample
+pew_genpop,"6,35"
+qual,NA
+qual_budget,NA
+qual_travel,NA
+other_data,"
+-   	Election results (for the spatiality of voting)
+-   	Median income by municipality (Statcan or cities?)
+"
+other_budget,30 hours ? I am note sure.
+ethics,1
+edi,1

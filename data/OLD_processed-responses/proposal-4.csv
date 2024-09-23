@@ -1,0 +1,47 @@
+var,resp
+id,4
+StartDate,2024-09-08 14:43
+EndDate,2024-09-08 14:45
+Status,0
+IPAddress,12.161.6.170
+Progress,100
+Duration (in seconds),106
+Finished,1
+RecordedDate,2024-09-08 14:45
+ResponseId,R_3OZCTMFiFphti7U
+RecipientLastName,NA
+RecipientFirstName,NA
+RecipientEmail,NA
+ExternalReference,NA
+LocationLatitude,39.9528
+LocationLongitude,-75.1646
+DistributionChannel,anonymous
+UserLanguage,EN
+pillar,-99
+questions,1
+dc,3
+lead,"Jack Lucas, Professor, jack.lucas@ucalgary.ca, University of Calgary"
+participants,"Lior Sheffer, Tel Aviv University
+Postdocs and two RAs"
+description,"This is the first phase of a two-year data collection effort on politicians' persuasion behaviour. In this first phase, we will work with CMB postdocs and RAs to complete 20-40 interviews with municipal politicians in medium/large cities. These interviews will (a) discuss politicians' general thinking about persuasion and then (b) have a role-playing element in which politicians provide the interviewer with arguments in favour of specific policy proposals to ""hypothetical"" constituents (that is, constituents with specific characteristics). The interview data will be used to develop forced-choice questions for elite and mass surveys in year two, and will also be part of mixed-methods papers on politicians' persuasive activity after Y2."
+contribution,This project is meant to contribute to a growing literature on persuasion in general and politicians’ working theories of persuasion in particular. It will also illuminate how politicians think about challenging/contentious local policy issues.
+audience,Academic researchers.
+outputs,"We will ultimately submit the work to a leading international political science journal, but this may have to wait until the completion of the quantitative phase in year two of the project."
+outputs_kmb,We’ll write an op-ed in Conversation Canada about the qualitative data.
+timeline,"April – August 2025: Interviews with municipal politicians
+September – October 2025: Transcription and coding 
+November – December 2025: Writing (and finalization of forced-choice questions for Y2 study)
+"
+questions_pol,NA
+sample_pol,NA
+pew_pol,NA
+questions_genpop,NA
+sample_genpop,NA
+pew_genpop,NA
+qual,We would like to interview 20-40 municipal politicians with a focus on politicians in medium and large municipalities. These will be 30-minute interviews (maximum).
+qual_budget,"There are no travel costs – interviews will take place via zoom. We anticipate that the postdocs and RAs will assist with the interviews and estimate 1.5 hour per interview (30m for the interview itself and 60m for emails and planning). This means we’ll need about 15h of RA time from each of the two postdoctoral fellows plus 15h of RA time from two additional RAs to get to about 40 interviews, which is the maximum we expect we’d be able to get (and would need)."
+qual_travel,No travel required.
+other_data,NA
+other_budget,NA
+ethics,1
+edi,1

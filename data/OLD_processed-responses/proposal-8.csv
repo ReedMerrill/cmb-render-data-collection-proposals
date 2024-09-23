@@ -1,0 +1,54 @@
+var,resp
+id,8
+StartDate,2024-09-12 10:10
+EndDate,2024-09-12 10:18
+Status,0
+IPAddress,172.219.181.64
+Progress,100
+Duration (in seconds),470
+Finished,1
+RecordedDate,2024-09-12 10:18
+ResponseId,R_4K11zG5jwCTWi5n
+RecipientLastName,NA
+RecipientFirstName,NA
+RecipientEmail,NA
+ExternalReference,NA
+LocationLatitude,51.0857
+LocationLongitude,-114.0234
+DistributionChannel,anonymous
+UserLanguage,EN
+pillar,-99
+questions,"1,2,3"
+dc,1
+lead,Jack Lucas (jack.lucas@ucalgary.ca)
+participants,-99
+description,"I am submitting a proposal to continue asking the ""democratic theory"" questions that we've been asking in the CMB survey for several years. Asking these questions repeatedly will allow us to understand how these theories change over time as politicians move through different experiences in their careers. They have been the heart of several major papers flowing out of CMB, including articles in Governance, European Journal of Political Research, and American Political Science Review, and they've become one of the ""signature"" features of the CMB project. So I think we should keep asking them. 
+
+I'm proposing a slightly reduced number of questions so that we do not use up too much time for these questions in the survey. I've selected the questions that have been of greatest interest to audiences and of greatest use to researchers."
+contribution,Please see above.
+audience,Academic researchers and politicians.
+outputs,"I have several papers in mind for these questions, but generally I think they relate in interesting ways to many of the other things we ask about in the survey. They help us understand if politicians with different theories of elections and voting behave differently as representatives."
+outputs_kmb,We will at the very least post some research briefs on the website about politicians' responses to these questions.
+timeline,The idea is for recurring collection of these questions.
+questions_pol,"elec_blame Some say that voters often blame or reward politicians for events that are totally out- side the politician’s control. Others say that voters are good at knowing which events politicians are and are not responsible for. Where would you position yourself in this debate?
+
+elec_policy Some say that voters make their decisions based on their policy preferences. Others say that voters’ choices have much more to do with their deeply held partisan or other group identities. Where would you position yourself in this debate?
+
+elec_pastfuture Some say that voters make decisions based on candidates’ policy commitments and promises for the next term. Others say that voters base their decisions on “rewarding” or
+“punishing” their mayor or councillor for how well they have performed in the previous term. Where would you position yourself in this debate?
+
+elec_improvedlives Some say voters judge governments on whether they’ve improved every- one’s lives. Others say voters judge governments on whether they’ve improved their own personal lives. Where would you position yourself in this debate?
+
+elec_shortterm Some say that voters are impatient and think about the short term when they vote. Others say that voters are able to ignore short-term distractions and focus on the long term. Where would you position yourself in this debate?"
+sample_pol,All politicians
+pew_pol,5
+questions_genpop,NA
+sample_genpop,NA
+pew_genpop,NA
+qual,NA
+qual_budget,NA
+qual_travel,NA
+other_data,NA
+other_budget,NA
+ethics,1
+edi,1

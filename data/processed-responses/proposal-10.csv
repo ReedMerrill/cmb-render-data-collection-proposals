@@ -1,0 +1,121 @@
+var,resp
+id,17
+StartDate,2024-09-13 11:51
+EndDate,2024-09-13 11:54
+Status,0
+IPAddress,129.100.255.32
+Progress,100
+Duration (in seconds),182
+Finished,1
+RecordedDate,2024-09-13 11:54
+ResponseId,R_3aVU59745RLWSuy
+RecipientLastName,NA
+RecipientFirstName,NA
+RecipientEmail,NA
+ExternalReference,NA
+LocationLatitude,43.0147
+LocationLongitude,-81.3049
+DistributionChannel,anonymous
+UserLanguage,EN
+pillar,"2,3"
+questions,3
+dc,2
+lead,"Katharine McCoy, PhD Candidate, kmccoy7@uwo.ca, Western University"
+participants,-99
+description,"I am proposing a short series of questions that can be easily added on to upcoming surveys. The questions seek to understand rural perspectives on rural identity, representation, and governmental institutions. This survey data would contribute to the development of a measurement method that will be used in two chapters of my PhD dissertation, and to the construction of a dataset that synthesizes geographic and political behaviour data. The goal of the dissertation project is to understand the contours of rural Canada as a heterogenous political entity. One of the special aspects of the Canadian case is the multi-level governance context in which Canadians exist. This means that if a Canadian has a specific political identity, it might exist for one level of government but not necessarily another. This is but one of the problems of trying to measure the role that rurality plays in Canadian politics. 
+
+
+
+The limitation of previous work on rural politics is that it has started with looking at overall trends that are typically (and overwhelmingly) drawn from those who live in cities, given the degree of urbanization in Canada. Existing research then typically compare how rural voters and rural places deviate from these trends. However, my project proposes that the directionality should be reversed - if we start by focusing on the rural areas, and see what information can be gleaned from them, there is opportunity to uncover aspects of rural political behaviour that we might otherwise miss. 
+
+
+
+As such, this project aims to ask rural Canadians how they see themselves and relate to their different levels of government. This will allow me to develop a measurement of rurality that fits with the reality of those being measured, while keeping in mind how that reality could be different across levels of government. 
+
+"
+contribution,"The approach that this proposal takes is built upon the “listening as method” and understanding of rurality and rural consciousness that stems from the work of Cramer (2012, 2016) and the replication in Alberta by Bannack (2021), and is designed such that the data collection and subsequent analysis is compatible with a quantitative and generalizable approach."
+audience,"Academics and policy-makers who care about recognizing the interests and needs of rural populations will be the principal audience for this project. This project will be useful for academics who wish to have answers to questions about measuring rurality within Canada. For policy makers, understanding the type of heterogeneity across the rural parts of the country will enable them to make more informed decisions around place-based policies."
+outputs,"This project will contribute to two articles of my PhD dissertation. The first article is a political methodology paper concerning different measures of rurality and how they can and should be used for different types of research questions. The goal is to create a more cohesive approach to measuring rurality in political science literature. Depending on how this project develops, I plan to first submit the article to Political Analysis or the Journal of Rural Studies. The second article will contribute to a larger database, and the article itself will be explore the relationship between the relative rurality of a region and any deviation from expected patterns of voting behaviour. I will submit it to the Canadian Journal of Political Science."
+outputs_kmb,"I information from the survey will help shape the levels at which data is synthesized. Once the data is cleaned and synthesized, I will host it on a website, which will include an accompanying blog post. This will include information about aggregate political behaviours at different scales of geography, so that the data is able to match the level that is most useful for further research questions. 
+
+
+
+I have also been invited onto Western University’s Gradcast this November to discuss the research process itself. For the podcast, I will discuss the process of attempting to develop a type of measurement that comes from the people being measured."
+timeline,The submission for the first article will be Fall 2025. The submission of the second article will be spring 2026. The website with the database will be published at the same time. The podcast will be recorded and released later in fall of 2024.
+questions_pol,NA
+sample_pol,NA
+pew_pol,NA
+questions_genpop,"Of the following, which do you associate with someone who is ""urban/rural/neither/both the same/dk"" (grid question with options for different responses as columns)
+
+-	Lazy
+
+-	Hard working
+
+-	Connected to their community
+
+-	Transient
+
+-	Resource-rich
+
+-	Underfunded
+
+
+
+People who get elected to municipal government soon lose touch with the people. 
+
+-	Agree
+
+-	Disagree
+
+-	Neither agree nor disagree
+
+-	DK
+
+
+
+People who get elected to provincial/territorial government soon lose touch with the people. 
+
+-	Agree
+
+-	Disagree
+
+-	Neither agree nor disagree
+
+-	DK
+
+
+
+People who get elected to federal government soon lose touch with the people. 
+
+-	Agree
+
+-	Disagree
+
+-	Neither agree nor disagree
+
+-	DK
+
+
+
+These three about levels of government should ideally be in randomized order. 
+
+
+
+I live where I live to have a distinct way of life:
+
+-	Agree
+
+-	Disagree
+
+-	Neither agree nor disagree
+
+-	DK"
+sample_genpop,"This proposal does not constitute a survey itself, but rather an addendum to other surveys being put out in the field. The goal of such a sample would be to have as many rural respondents as possible, several hundred for statistical analysis, and from as many of the country’s regions as possible."
+pew_genpop,Roughly 9 PEW points
+qual,NA
+qual_budget,NA
+qual_travel,NA
+other_data,NA
+other_budget,NA
+ethics,1
+edi,1

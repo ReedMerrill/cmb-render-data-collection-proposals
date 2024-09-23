@@ -1,0 +1,107 @@
+var,resp
+id,3
+StartDate,2024-09-04 11:15
+EndDate,2024-09-04 11:20
+Status,0
+IPAddress,216.208.25.149
+Progress,100
+Duration (in seconds),343
+Finished,1
+RecordedDate,2024-09-04 11:20
+ResponseId,R_1MTgNlKUSDKdUV6
+RecipientLastName,NA
+RecipientFirstName,NA
+RecipientEmail,NA
+ExternalReference,NA
+LocationLatitude,43.6426
+LocationLongitude,-79.4002
+DistributionChannel,anonymous
+UserLanguage,EN
+pillar,-99
+questions,1
+dc,2
+lead,"Jack Lucas, Professor, University of Calgary, jack.lucas@ucalgary.ca"
+participants,Jack Lucas
+description,"The ""issue public"" is a subset of voters who have strong and well-defined attitudes on a particular policy issue. The purpose of this paper will be to explore (a) the proportion of Canadians who can be considered part of a municipal ""issue public"" and (b) the kinds of issues that receive especially close attention, or the kinds of issues that ""have"" issue publics attached. The paper will require one simple forced-choice question and one short open-ended question. Recently, Timothy Ryan and Andrew Ehlinger developed a novel approach to measuring the presence of issue publics in the American context. My proposal is to extend this approach to the Canadian municipal setting to answer the following questions: 
+
+
+
+1. What proportion of Canadians belong to municipal “issue publics”? 
+
+
+
+2. What characteristics – e.g. age, gender, duration in the municipality, home-ownership, knowledge, interest, etc. – predict a person’s belonging to an issue public? 
+
+
+
+3. How do municipal issue publics compare to provincial or federal issue publics in Canada, both in terms of the proportion and the individual-level characteristics? 
+
+
+
+4. What kinds of issues do municipal issue publics care about in Canada? How do these issues vary across municipalities? 
+
+"
+contribution,"No one has ever measured municipal issue publics before, and there's a broader resurgence of interest on issue publics in the comparative political science literature."
+audience,Academic political scientists.
+outputs,Journal article for Urban Affairs Review.
+outputs_kmb,Conversation Canada article.
+timeline,"Data collection: March 2025
+
+Coding and data analysis: April-June 2025
+
+Preliminary writing / presentation: June 2025
+
+Full draft: July-August 2025
+
+Submission: September-October 2025"
+questions_pol,NA
+sample_pol,NA
+pew_pol,NA
+questions_genpop,"Note: Design: 3,000 municipal, 1,500 provincial, 1,500 federal. 
+
+
+
+ip_municipal In municipal politics, some people have an issue they care about more than other issues. They might think about the issue a lot. They might pay special attention to news about that issue, even when it’s not “front-page” news. They might focus on what political candidates say about that issue, and decide who to vote for on the basis of that issue. Or they might just care about the issue a lot.
+
+
+
+In municipal politics, is there an issue like that for you?  [0 = No; 1 = Yes]
+
+
+
+ip_municipal_open In just a sentence or two, what issue is it that you care about? [OPEN]
+
+
+
+ip_provincial In provincial politics, some people have an issue they care about more than other issues. They might think about the issue a lot. They might pay special attention to news about that issue, even when it’s not “front-page” news. They might focus on what political candidates say about that issue, and decide who to vote for on the basis of that issue. Or they might just care about the issue a lot.
+
+
+
+In provincial politics, is there an issue like that for you?  [0 = No; 1 = Yes]
+
+
+
+ip_provincial_open In just a sentence or two, what issue is it that you care about? [OPEN]
+
+
+
+ip_federal In federal politics, some people have an issue they care about more than other issues. They might think about the issue a lot. They might pay special attention to news about that issue, even when it’s not “front-page” news. They might focus on what political candidates say about that issue, and decide who to vote for on the basis of that issue. Or they might just care about the issue a lot.
+
+
+
+In federal politics, is there an issue like that for you?  [0 = No; 1 = Yes]
+
+
+
+ip_federal_open In just a sentence or two, what issue is it that you care about? [OPEN]
+
+"
+sample_genpop,Full genpop survey (~6500)
+pew_genpop,6
+qual,NA
+qual_budget,NA
+qual_travel,NA
+other_data,NA
+other_budget,NA
+ethics,1
+edi,1

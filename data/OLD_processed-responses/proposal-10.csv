@@ -1,0 +1,97 @@
+var,resp
+id,10
+StartDate,2024-09-12 10:54
+EndDate,2024-09-12 11:05
+Status,0
+IPAddress,172.219.181.64
+Progress,100
+Duration (in seconds),674
+Finished,1
+RecordedDate,2024-09-12 11:05
+ResponseId,R_3F3TH4WSGrgdnvC
+RecipientLastName,NA
+RecipientFirstName,NA
+RecipientEmail,NA
+ExternalReference,NA
+LocationLatitude,51.0857
+LocationLongitude,-114.0234
+DistributionChannel,anonymous
+UserLanguage,EN
+pillar,2
+questions,"1,2,3"
+dc,"1,2"
+lead,"Jack Lucas, Professor, Jack.lucas@ucalgary.ca"
+participants,"Lior Sheffer, Associate Professor, Tel Aviv
+Mike McGregor, Associate Professor, TMU
+Sophie Borwein, Assistant Professor, UBC
+Sandra Breux, INRS"
+description,"Politicians' implicit theories of voting behaviour play an important role in elections. If politicians are even remotely election-oriented, they are likely to focus special attention on communicating with and understanding the preferences of municipal voters, and even if a politician is entirely policy-seeking and unconcerned with re-election, politicians' understanding of who votes in local elections and who their personal supporters are may still shape how they communicate with the general public. How politicians choose to act as representatives and candidates is profoundly shaped by their beliefs about voting behaviour, yet we currently understand very little about these beliefs. This study will use a conjoint experiment to examine politicians' implicit theories of municipal voter turnout and voting behaviour. 
+"
+contribution,"We have a good amount of aggregate information about politicians' implicit theories and perceptual accuracy, but this study will allow for more fine-grained analysis: we'll be able to see how politicians think about specific kinds of constituents."
+audience,Academic researchers.
+outputs,"This survey module is intended to generate three papers: 
+Paper 1: Politicians' Implicit Theories of Voter Turnout
+Paper 2: Who Supports Me? Politicians' Beliefs about their Supporters
+Paper 3: Do Politicians Know More about Certain Types of Voters? (with Lior)"
+outputs_kmb,At least one conversation canada or other op-ed about each paper.
+timeline,"Data collection: January to March 2024
+Data analysis: April to June 2024
+Writing and presentation: July to September 2024
+Paper 1 submitted: Fall 2024
+Paper 2 submitted: Winter 2025"
+questions_pol,"We’re going to show you profiles of four eligible voters in your municipality. Please consider each profile and then answer the questions below
+
+Age	25, 45, 65
+Gender	Man, Woman
+Annual Income	Less than $50,000, $50,000 to $150,000, More than $150,000
+Racial Identity	White, South Asian, Korean, Latin American
+Immigrant Status	Non-Immigrant (born in Canada), Immigrant (born outside Canada) 
+Years in Municipality	1 year, 5 years, 10 years, More than 20 years
+Education	High school diploma, college diploma, skilled trade, bachelor’s degree, professional degree or doctorate
+Housing Situation	Renter, Home owner (with mortgage), Home owner (no mortgage) 
+Federal Party Affiliation	No party affiliation, Conservative, NDP, Liberal, Green 
+
+cj_turnout How likely do you think it is that this person will vote in the next municipal election? 
+(0 No Chance, 1, 2, 3, 4, 5 (50-50 Chance), 6, 7, 8, 9, 10 Absolutely Certain)
+
+cj_votechoice If this person did vote, how likely do you think this person would be to vote for you in a municipal election? (0 No Chance, 1, 2, 3, 4, 5 (50-50 Chance), 6, 7, 8, 9, 10 Absolutely Certain)
+
+cj_ideol If you had to guess, where do you think this person would place themselves on a 0-10 left-right scale, where 0 is “left” and 10 is “right”? (0 Left, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 Right) 
+
+cj_policy If you had to guess, how do you think this person would respond to the following policy statement? 
+
+Randomly insert one of these four items 
+
+Municipalities should play a strong role in reducing the effects of climate change, even if it means sacrificing revenues and/or expending financial resources.
+
+Municipalities should prioritize keeping taxes low, even if it means low-income residents have access to fewer social services.
+
+Municipalities should make their roads accessible to active transportation (walking, cycling) even if it means sacrificing driving lanes and/or parking.
+
+Municipalities should keep historic street names, statues, and other heritage landmarks, even if some of the historical individuals being commemorated were prejudiced or racist.
+
+The person in the profile would strongly disagree, somewhat disagree, somewhat agree, strongly agree, have no opinion
+"
+sample_pol,Full sample
+pew_pol,16
+questions_genpop,"vote1 How likely is it that you will vote in the next municipal election? 
+Extremely unlikely (0), Somewhat unlikely, (1), Somewhat likely (2), Extremely likely (3)
+
+vote2 How much do you care about the outcome of mayoral and council elections in your municipality? 
+Don’t care at all (0), Don’t care much (1), Care a little (2), Care a lot (3)
+
+vote3 In municipal elections, do you think voting is a duty or a choice?  
+(Duty, Choice, Don’t Know)
+
+Interest In general, how interested are you in municipal politics?
+Not at all interested (0), 1, 2, 3, 4, 5, 6, 7, 8, 9, Very interested (10) 
+"
+sample_genpop,"With the full sample (6500) we can do nice precise estimates, but we could probably get by with anything over 2500 responses."
+pew_genpop,4
+qual,NA
+qual_budget,NA
+qual_travel,NA
+other_data,NA
+other_budget,NA
+ethics,1
+edi,1

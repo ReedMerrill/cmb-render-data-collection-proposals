@@ -1,0 +1,228 @@
+var,resp
+id,14
+StartDate,2024-09-10 18:02
+EndDate,2024-09-13 9:33
+Status,0
+IPAddress,24.141.35.104
+Progress,100
+Duration (in seconds),228606
+Finished,1
+RecordedDate,2024-09-13 9:33
+ResponseId,R_5lAk1yXKnF66Xjr
+RecipientLastName,NA
+RecipientFirstName,NA
+RecipientEmail,NA
+ExternalReference,NA
+LocationLatitude,43.2642
+LocationLongitude,-79.9143
+DistributionChannel,anonymous
+UserLanguage,EN
+pillar,3
+questions,1
+dc,1
+lead,"Zac Spicer, zspicer@yorku.ca, Associate Professor, York University"
+participants,-99
+description,"In the Fall of 2022, the provincial government began granting “strong mayor” powers to certain municipalities across Ontario. Starting with Ottawa and Toronto in Bills 3 and 39, these powers have since been extended to the Mayors of 45 municipalities across Ontario. This legislation provides Mayors with a range of new powers, including the ability to appoint and dismiss the Chief Administrative Officer, determine the administrative structure of the City, establish committees of council and appoint Chairs and Vice Chairs of Committees of Council, and veto or approve bylaws with reduced council support. The expressed primary goal of these powers by the Province of Ontario was to expedite decision-making processes and address provincial priorities, such as housing.
+
+I have an RA (not funded by the CMB) who has been cataloguing the use of 'strong mayor' powers across Ontario. I want to compliment this dataset with the impressions of Mayors and Councillors in Ontario. Combined, we should be well placed to better understand 1) how these powers have been used and 2) what impact they are having on governance of these municipalities."
+contribution,"Ontario is the only province that has so comprehensively changed the authority and responsibility of certain Mayors. Understand the impact would be of relevance (or at least of interest) to policy-makers across the country. To date, there has not been any studies that have really studied the impact of this legislation. There have been certainly been some reports and workshops that have explored the potential impact and some early (largely anecdotal) impressions of how this change is working, but little has been done to systematically explore them."
+audience,"Academics, policy-makers, the general public"
+outputs,"There is at least one journal article available from this work. This would potentially be of interest to Canadian journals, like CJPS or Canadian Public Administration. I suspect certain American publications (who are open to publishing Canadian research), such as State and Local Government Review, would also consider the results for publication."
+outputs_kmb,"There is great interest in the use of 'strong mayor' powers in Ontario, especially among those in the municipal sector. I plan to present the results at the annual conferences of either the Association of Municipal Managers, Clerks and Treasurers of Ontario or the Ontario Municipal Managers' Association. I think there is also a short report for the Institute on Municipal Finance and Governance or a blog post for Policy Options (or the Conversation) that could be explored once the results are available."
+timeline,"Once the results are available, I suspect it would not take much more than 4 months to complete the academic article. The conferences are in the June and July. If the proposal is accepted and the questions are included I would indicate my interest to present to the organizers at AMCTO or OMAA. The data set of use is being updated regularly and ready for analysis."
+questions_pol,"I suspect I'd need to work with those drafting the full survey to make this all work, but ideally I could get the impressions of both councillors and Mayors. In a perfect world we could include staff as well, but we have a contact list for staff in Ontario municipalities and I could send similar questions to them as well (happy to chat further). Some potential questions are below. I know there is likely more here than can reasonably be included. This is just to give a sense of what I think would be important. 
+
+FOR MAYORS
+
+Have you used “strong mayor” powers since they were granted? 
+-	Yes
+-	No
+-	Unsure
+-	Prefer not to disclose 
+
+[IF YES] Which areas of policy have you used these powers? (Please select all that apply)
+-	Housing and land use planning
+-	The budget
+-	Staffing 
+-	Changing the administrative structure of the municipality 
+-	Transportation
+-	Waste
+-	Water
+-	Emergency Services
+-	Public Transportation 
+-	Legal services
+-	Economic development
+-	Tourism
+-	Customer service (eg. 311 services)
+-	Social services
+-	Planning and development
+-	Court services
+-	By-law
+-	Parks and recreation
+-	Revenue collection and finance
+-	Other. Please describe (250 Character Limit)
+
+What was your rationale for using these powers? (Please select all that apply)
+-	To overcome disagreement on council
+-	To end council debate
+-	To speed up the legislative process
+-	To ensure you could fulfil your election promises
+-	To do what you believed was best for the community
+-	Other. Please describe (250 character limit)
+
+Which powers did you use? (Please select all that apply)
+-	Appoint or Dismiss the CAO
+-	Determine Admin structure of municipality 
+-	Hire or Dismiss municipal department heads
+-	Delegate powers related to organizational structure
+-	Establish committees of council
+-	Appoint chairs/vice-chairs of council committee 
+-	Assign functions to council committees
+-	Veto by-laws and legislation
+-	Choose not to exercise veto powers 
+-	Shorten the veto period 
+-	Direct the preparation of the municipal budget 
+-	Provide written approval for budget-related by-laws
+-	Propose amendments to budget 
+-	Direct staff to present budget
+-	Issue directives to staff 
+-	Provide written approval of by-laws 
+-	Decisions related to special meetings and budget timeline
+-	Other (Please specify, max. 250 words)
+
+[IF NO] Why haven’t you used these powers? (please select all that apply)
+-	I believe myself and the rest of council can and should reach consensus
+-	We operate as a council fine without them
+-	It would be too divisive
+-	The public would not like to see these powers used
+-	Staff objected to their use
+-	I do not agree with the legislation
+-	Other. Please describe (250 character limit)
+
+Do you plan to use these powers in the future?
+-	Yes
+-	No
+-	Unsure
+-	Prefer not to disclose
+
+How often do your interests and policy priorities align with those of the other members of council?
+•	Always
+•	Most of the time
+•	About half the time
+•	Rarely
+•	Never
+•	Unsure
+
+What percentage of the time do you believe your interests align with those of the other members of council?
+•	0-20%
+•	21-40%
+•	41-60%
+•	61-80%
+•	81-100%
+
+How would you characterize the relationship between yourself and Council since the introduction of “strong mayor” powers?
+-	Better
+-	About the same
+-	Worse
+-	Unsure
+-	Refused to say
+
+How would you describe the relationship between yourself and Staff since the introduction of “strong mayor” powers?
+-	Better
+-	About the same
+-	Worse
+-	Unsure
+-	Refused to say
+
+How would you describe the relationship between yourself and the public since the introduction of “strong mayor” powers?
+-	Better
+-	About the same
+-	Worse
+-	Unsure
+-	Prefer not to disclose 
+
+FOR COUNCILLORS
+
+Has the Mayor of your municipality used “strong mayor” powers since having them granted by the provincial government?
+-	Yes
+-	No
+-	Unsure
+-	Refuse to say
+
+Do you believe that Province made the right decision in granting such powers to certain Mayors?
+-	Yes
+-	No
+-	Unsure
+-	Prefer not to disclose 
+
+[IF YES] In which areas of policy has the Mayor used these powers?
+-	Housing and land use planning
+-	The budget
+-	Staffing 
+-	Changing the administrative structure of the municipality 
+-	Transportation
+-	Waste
+-	Water
+-	Emergency Services
+-	Public Transportation 
+-	Legal services
+-	Economic development
+-	Tourism
+-	Customer service (eg. 311 services)
+-	Social services
+-	Planning and development
+-	Court services
+-	By-law
+-	Parks and recreation
+-	Revenue collection and finance
+-	Other. Please describe (250 Character Limit)
+
+How would you characterize the relationship between the Mayor and Council since the introduction of “strong mayor” powers?
+-	Better
+-	About the same
+-	Worse
+-	Unsure
+-	Prefer not to disclose
+
+How would you describe the relationship between the Mayor and the public since the introduction of “strong mayor” powers?
+-	Better
+-	About the same
+-	Worse
+-	Unsure
+-	Prefer not to disclose 
+
+Since the introduction of “strong Mayor” powers how would you describe the culture of the municipality?
+-	Better
+-	About the same
+-	Worse
+-	Unsure
+-	Prefer not to disclose 
+
+How often do the Mayor's interests and policy priorities align with the other members of council?
+•	Always
+•	Most of the time
+•	About half the time
+•	Rarely
+•	Never
+•	Unsure
+
+What percentage of the time do you believe the Mayor's interests align with the other members of council?
+•	0-20%
+•	21-40%
+•	41-60%
+•	61-80%
+•	81-100%
+
+"
+sample_pol,"Not every municipality in the province has strong mayor legislation. The sample would focus on the 45 that do, although it may be useful to get the impression of those councillors and Mayors who do not yet have these powers. Happy to discuss or provide a list of the 45 that do have the powers."
+pew_pol,"10-12 each, perhaps"
+questions_genpop,NA
+sample_genpop,NA
+pew_genpop,NA
+qual,NA
+qual_budget,NA
+qual_travel,NA
+other_data,NA
+other_budget,NA
+ethics,1
+edi,1
